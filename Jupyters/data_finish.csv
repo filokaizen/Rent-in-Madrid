@@ -1,0 +1,661 @@
+,ubicación,precio,detalles,tipo_vivienda,barrios,habitaciones,metros
+0,Piso en calle de Jesús y María  LavapiésEmbajadores  Madrid,1200,2 hab 65 m con ascensor 2 minutos,Piso,"Embajadores, Madrid",2 hab, 65 m
+1,Piso en calle de Cardenal Mendoza  Puerta del Ángel  Madrid,1100,1 hab 65 m Bajo exterior con ascensor 10 horas,Piso,"Puerta del Ángel, Madrid",1 hab, 65 m
+2,Piso en calle del Olivar  44  LavapiésEmbajadores  Madrid,1200,2 hab 56 m Planta 2 exterior sin ascensor 2 minutos,Piso,"Embajadores, Madrid",2 hab, 56 m
+3,Piso en calle Solana de Luche  Puerta del Ángel  Madrid,1350,3 hab 70 m Planta 2 exterior sin ascensor 10 horas,Piso,"Puerta del Ángel, Madrid",3 hab, 70 m
+4,Piso en Atlético de Madrid 2  2  Puerta Bonita  Madrid,650,2 hab 53 m Planta 1 exterior sin ascensor 4 minutos,Piso,"Puerta Bonita, Madrid",2 hab, 53 m
+5,Piso en calle industria  Puerta del Ángel  Madrid,1050,1 hab 50 m Planta 2 exterior con ascensor 10 horas,Piso,"Puerta del Ángel, Madrid",1 hab, 50 m
+6,Piso en calle de San Vicente Ferrer  MalasañaUniversidad  Madrid,950,1 hab 48 m Bajo exterior sin ascensor 3 minutos,Piso,"Universidad, Madrid",1 hab, 48 m
+7,Piso en calle industria  Puerta del Ángel  Madrid,1050,1 hab 50 m Planta 1 exterior con ascensor 10 horas,Piso,"Puerta del Ángel, Madrid",1 hab, 50 m
+8,Piso en Nuevos MinisteriosRíos Rosas  Madrid,3900,4 hab 210 m Planta 3 exterior con ascensor 7 minutos,Piso,"Ríos Rosas, Madrid",4 hab, 210 m
+9,Piso en Blasco de Garay  Arapiles  Madrid,1900,2 hab 92 m Planta 6 exterior con ascensor,Piso,"Arapiles, Madrid",2 hab, 92 m
+10,Piso en calle del Pintor Ignacio de Zuloaga  2  Sanchinarro  Madrid,1225,2 hab 76 m Planta 5 con ascensor 10 minutos,Piso,"Sanchinarro, Madrid",2 hab, 76 m
+11,Piso en calle Minas  7  MalasañaUniversidad  Madrid,950,2 hab 50 m Planta 2 interior sin ascensor,Piso,"Universidad, Madrid",2 hab, 50 m
+12,Piso en Berruguete  Berruguete  Madrid,915,2 hab 40 m Planta 2 interior sin ascensor 20 minutos,Piso,"Berruguete, Madrid",2 hab, 40 m
+13,Piso en Recoletos  Madrid,2700,2 hab 135 m Planta 3 exterior con ascensor,Piso,"Recoletos, Madrid",2 hab, 135 m
+14,Piso en calle de Carranza  4  Trafalgar  Madrid,850,1 hab 30 m Planta 1 interior sin ascensor 24 minutos,Piso,"Trafalgar, Madrid",1 hab, 30 m
+15,Piso en calle de Amaniel  MalasañaUniversidad  Madrid,1300,1 hab 65 m Planta 1 exterior con ascensor,Piso,"Universidad, Madrid",1 hab, 65 m
+16,Piso en calle de la Virgen de los Peligros  HuertasCortes  Madrid,1200,1 hab 60 m Planta 1 exterior con ascensor 28 minutos,Piso,"Cortes, Madrid",1 hab, 60 m
+17,Estudio en Quintana  Madrid,850,33 m Bajo exterior sin ascensor 30 ago,Estudio,"Quintana, Madrid",0 estudio,0 estudio
+18,Piso en calle de Alfonso VI  6  Palacio  Madrid,800,2 hab 58 m Planta 1 exterior sin ascensor 28 minutos,Piso,"Palacio, Madrid",2 hab, 58 m
+19,Estudio en Quintana  Madrid,650,29 m Bajo exterior sin ascensor 04 sep,Estudio,"Quintana, Madrid",0 estudio,0 estudio
+20,Ático en calle de Ángel Muñoz  San Juan Bautista  Madrid,2000,2 hab 96 m Planta 3 exterior con ascensor 27 minutos,Ático,"San Juan Bautista, Madrid",2 hab, 96 m
+21,Piso en HuertasCortes  Madrid,3500,3 hab 129 m Planta 6 exterior con ascensor,Piso,"Cortes, Madrid",3 hab, 129 m
+22,Piso en calle de bravo Murillo  297  Valdeacederas  Madrid,850,3 hab 65 m Planta 2 interior con ascensor 32 minutos,Piso,"Valdeacederas, Madrid",3 hab, 65 m
+23,Dúplex en calle de Palafox  Trafalgar  Madrid,4100,2 hab 108 m Planta 4 exterior con ascensor,Dúplex,"Trafalgar, Madrid",2 hab, 108 m
+24,Piso en BernabéuHispanoamérica  Madrid,4800,5 hab 397 m Planta 4 exterior con ascensor 40 minutos,Piso,"Hispanoamérica, Madrid",5 hab, 397 m
+25,Estudio en calle de San Lorenzo  ChuecaJusticia  Madrid,2200,50 m Bajo exterior con ascensor,Estudio,"Justicia, Madrid",0 estudio,0 estudio
+26,Piso en Goya  Madrid,2450,2 hab 100 m Planta 5 exterior con ascensor 42 minutos,Piso,"Goya, Madrid",2 hab, 100 m
+27,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 85 m
+28,Dúplex en paseo de Juan XXIII  40  Ciudad Universitaria  Madrid,2200,3 hab 130 m Planta 11 exterior con ascensor 43 minutos,Dúplex,"Ciudad Universitaria, Madrid",3 hab, 130 m
+29,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 85 m
+0,Piso en Vicente Muzas  Colina  Madrid,1050,1 hab 65 m Planta 4 exterior con ascensor 12 horas,Piso,"Colina, Madrid",1 hab, 65 m
+1,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 90 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 90 m
+2,Piso en calle de Coslada  11  Guindalera  Madrid,1200,2 hab 70 m Planta 2 exterior con ascensor 12 horas,Piso,"Guindalera, Madrid",2 hab, 70 m
+3,Piso en paseo de la Castellana  VentillaAlmenara  Madrid,2400,3 hab 163 m Planta 8 exterior con ascensor,Piso,"Almenara, Madrid",3 hab, 163 m
+4,Piso en calle Villa del Prado  Delicias  Madrid,1280,2 hab 148 m Planta 4 exterior con ascensor 12 horas,Piso,"Delicias, Madrid",2 hab, 148 m
+5,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 85 m
+6,Piso en Ibiza  Madrid,2400,3 hab 130 m Planta 3 sin ascensor 12 horas,Piso,"Ibiza, Madrid",3 hab, 130 m
+7,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 90 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 90 m
+8,Piso en calle Alonso Heredia  29  Guindalera  Madrid,1200,3 hab 98 m Planta 2 exterior con ascensor 13 horas,Piso,"Guindalera, Madrid",3 hab, 98 m
+9,Casa o chalet independiente en El Plantío  Madrid,12000,8 hab 1200 m,Chalet,"El Plantío, Madrid",8 hab, 1200
+10,Piso en calle Sagasta  Trafalgar  Madrid,1750,1 hab 95 m Planta 5 exterior con ascensor 13 horas,Piso,"Trafalgar, Madrid",1 hab, 95 m
+11,Piso en calle de Jesús de Polanco  Peñagrande  Madrid,2000,2 hab 98 m Planta 1 exterior con ascensor,Piso,"Peñagrande, Madrid",2 hab, 98 m
+12,Piso en Conde de Aranda  10  Recoletos  Madrid,8370,3 hab 180 m Planta 3 exterior con ascensor 14 horas,Piso,"Recoletos, Madrid",3 hab, 180 m
+13,Piso en calle de Hermosilla  Goya  Madrid,1450,2 hab 46 m Planta 5 interior con ascensor,Piso,"Goya, Madrid",2 hab, 46 m
+14,Piso en plaza de Arteijo  13  Pilar  Madrid,750,1 hab 40 m Planta 3 exterior con ascensor 14 horas,Piso,"Pilar, Madrid",1 hab, 40 m
+15,Piso en paseo de la Infanta Isabel  Jerónimos  Madrid,1990,4 hab 79 m Planta 3 exterior con ascensor,Piso,"Los Jerónimos, Madrid",4 hab, 79 m
+16,Piso en Serrano  112  Castellana  Madrid,7650,3 hab 241 m Planta 3 exterior con ascensor 14 horas,Piso,"Castellana, Madrid",3 hab, 241 m
+17,Dúplex en calle del Príncipe de Vergara  Castellana  Madrid,1800,1 hab 82 m Planta 6 exterior con ascensor,Dúplex,"Castellana, Madrid",1 hab, 82 m
+18,Ático en calle Ferraz  37  Argüelles  Madrid,2000,3 hab 125 m Planta 7 exterior con ascensor 14 horas,Ático,"Argüelles, Madrid",3 hab, 125 m
+19,Piso en calle de Pavía  Palacio  Madrid,2900,2 hab 134 m Planta 4 exterior con ascensor,Piso,"Palacio, Madrid",2 hab, 134 m
+20,Piso en calle de Antonio de Leyva  76  Opañel  Madrid,930,1 hab 56 m Planta 4 exterior con ascensor 14 horas,Piso,"Opañel, Madrid",1 hab, 56 m
+21,Piso en yecora  Rejas  Madrid,1400,2 hab 105 m Planta 3 exterior con ascensor,Piso,"Rejas, Madrid",2 hab, 105 m
+22,Ático en San Carlos  6  LavapiésEmbajadores  Madrid,2430,2 hab 82 m Planta 2 exterior con ascensor 14 horas,Ático,"Embajadores, Madrid",2 hab, 82 m
+23,Piso en calle de Lope de Vega  HuertasCortes  Madrid,1800,1 hab 79 m Semisótano exterior sin ascensor,Piso,"Cortes, Madrid",1 hab, 79 m
+24,Piso en plaza de Corcubión  1  Pilar  Madrid,950,2 hab 52 m Planta 3 exterior con ascensor 14 horas,Piso,"Pilar, Madrid",2 hab, 52 m
+25,Piso en avenida de los Andes  Conde OrgazPiovera  Madrid,3100,3 hab 153 m Planta 2 exterior con ascensor,Piso,"Piovera, Madrid",3 hab, 153 m
+26,Dúplex en calle de Vallehermoso  104  Vallehermoso  Madrid,980,1 hab 45 m Planta 6 interior con ascensor 14 horas,Dúplex,"Vallehermoso, Madrid",1 hab, 45 m
+27,Piso en avenida de los Madroños  Conde OrgazPiovera  Madrid,4500,4 hab 224 m Planta 2 exterior con ascensor,Piso,"Piovera, Madrid",4 hab, 224 m
+28,Piso en calle de las Delicias  Palos de Moguer  Madrid,1900,3 hab 81 m Planta 3 exterior sin ascensor 15 horas,Piso,"Palos de Moguer, Madrid",3 hab, 81 m
+29,Estudio en calle de Lagasca  Recoletos  Madrid,1200,38 m Planta 3 interior con ascensor,Estudio,"Recoletos, Madrid",0 estudio,0 estudio
+0,Piso en calle Cabo Nicolás Mur  San Isidro  Madrid,895,3 hab 75 m Planta 2 exterior sin ascensor 15 horas,Piso,"San Isidro, Madrid",3 hab, 75 m
+1,Ático en calle de Arganzuela  LavapiésEmbajadores  Madrid,3100,2 hab 158 m Planta 5 exterior con ascensor,Ático,"Embajadores, Madrid",2 hab, 158 m
+2,Piso en calle del Doctor Cortezo  LavapiésEmbajadores  Madrid,2200,4 hab 145 m Planta 4 exterior con ascensor 15 horas,Piso,"Embajadores, Madrid",4 hab, 145 m
+3,Ático en plaza del Ángel  HuertasCortes  Madrid,2000,1 hab 54 m Planta 4 exterior con ascensor,Ático,"Cortes, Madrid",1 hab, 54 m
+4,Piso en calle de la Infanta Mercedes  Cuatro Caminos  Madrid,1495,3 hab 80 m Planta 7 exterior con ascensor 14 horas,Piso,"Cuatro Caminos, Madrid",3 hab, 80 m
+5,Piso en calle de Calatrava  Palacio  Madrid,1875,2 hab 105 m Planta 3 exterior con ascensor,Piso,"Palacio, Madrid",2 hab, 105 m
+6,Piso en calle de Fray José Cerdeiriña  Águilas  Madrid,700,2 hab 65 m Planta 5 exterior sin ascensor 15 horas,Piso,"Águilas, Madrid",2 hab, 65 m
+7,Piso en calle de Calatrava  Palacio  Madrid,1500,1 hab 67 m Planta 3 exterior con ascensor,Piso,"Palacio, Madrid",1 hab, 67 m
+8,Piso en calle villamanin  Lucero  Madrid,1100,3 hab 90 m Planta 11 exterior con ascensor 14 horas,Piso,"Lucero, Madrid",3 hab, 90 m
+9,Estudio en calle de Arganzuela  LavapiésEmbajadores  Madrid,1400,67 m Planta 2 exterior con ascensor,Estudio,"Embajadores, Madrid",0 estudio,0 estudio
+10,Piso en calle del Apóstol Santiago  68  Ventas  Madrid,890,1 hab 58 m Planta 5 exterior con ascensor 15 horas,Piso,"Ventas, Madrid",1 hab, 58 m
+11,Piso en calle de Arganzuela  LavapiésEmbajadores  Madrid,1550,1 hab 78 m Planta 4 exterior con ascensor,Piso,"Embajadores, Madrid",1 hab, 78 m
+12,Piso en Poeta Joan Maragall  CuzcoCastillejos  Madrid,2700,2 hab 89 m Planta 18 exterior con ascensor 14 horas,Piso,"Castillejos, Madrid",2 hab, 89 m
+13,Piso en calle del Carmen  Sol  Madrid,2700,3 hab 95 m Planta 4 exterior con ascensor,Piso,"Sol, Madrid",3 hab, 95 m
+14,Piso en Nuñez de Balboa  56  Recoletos  Madrid,2700,1 hab 70 m Planta 2 exterior con ascensor 15 horas,Piso,"Recoletos, Madrid",1 hab, 70 m
+15,Piso en calle de Alejandro Saint Aubin  Chopera  Madrid,1900,2 hab 53 m Planta 2 exterior con ascensor,Piso,"Chopera, Madrid",2 hab, 53 m
+16,Dúplex en Mirasierra  Madrid,2800,3 hab 281 m Planta 3 exterior con ascensor 12 horas,Dúplex,"Mirasierra, Madrid",3 hab, 281 m
+17,Piso en Guindalera  Madrid,1800,3 hab 125 m Planta 1 exterior con ascensor,Piso,"Guindalera, Madrid",3 hab, 125 m
+18,Piso en calle de la Oca  Vista Alegre  Madrid,945,2 hab 56 m Planta 3 exterior con ascensor 16 horas,Piso,"Vista Alegre, Madrid",2 hab, 56 m
+19,Piso en calle de Barrilero  Adelfas  Madrid,1400,2 hab 80 m Planta 2 exterior con ascensor,Piso,"Adelfas, Madrid",2 hab, 80 m
+20,Dúplex en paseo de la Direccion  Berruguete  Madrid,1600,3 hab 145 m Planta 4 exterior con ascensor 16 horas,Dúplex,"Berruguete, Madrid",3 hab, 145 m
+21,Piso en Palacio  Madrid,2750,3 hab 135 m Planta 3 exterior con ascensor,Piso,"Palacio, Madrid",3 hab, 135 m
+22,Piso en calle de WadRas  Bellas Vistas  Madrid,780,2 hab 42 m Bajo interior sin ascensor 16 horas,Piso,"Bellas vistas, Madrid",2 hab, 42 m
+23,Piso en calle de Tortosa  Palos de Moguer  Madrid,1800,2 hab 80 m Planta 3 exterior con ascensor,Piso,"Palos de Moguer, Madrid",2 hab, 80 m
+24,Piso en calle del Barco  9  MalasañaUniversidad  Madrid,1050,2 hab 65 m Planta 2 interior con ascensor 16 horas,Piso,"Universidad, Madrid",2 hab, 65 m
+25,Piso en Almagro  Madrid,1900,1 hab 97 m Entreplanta exterior con ascensor,Piso,"Almagro, Madrid",1 hab, 97 m
+26,Piso en Segovia  Palacio  Madrid,970,2 hab 37 m Bajo interior sin ascensor 16 horas,Piso,"Palacio, Madrid",2 hab, 37 m
+27,Ático en Ciudad Jardín  Madrid,4700,3 hab 228 m Planta 7 exterior con ascensor 22 horas,Ático,"Ciudad Jardín, Madrid",3 hab, 228 m
+28,Piso en calle de Sánchez Barcáiztegui  Pacífico  Madrid,2000,4 hab 106 m Planta 3 exterior con ascensor 3 horas,Piso,"Pacífico, Madrid",4 hab, 106 m
+29,Piso en calle de la Sierra de los Filabres  37  Numancia  Madrid,620,1 hab 25 m Planta 1 interior sin ascensor,Piso,"Numancia, Madrid",1 hab, 25 m
+0,Piso en calle de Sánchez Barcáiztegui  Pacífico  Madrid,2000,4 hab 106 m Planta 3 exterior con ascensor 3 horas,Piso,"Pacífico, Madrid",4 hab, 106 m
+1,Piso en calle de la Sierra de los Filabres  37  Numancia  Madrid,620,1 hab 25 m Planta 1 interior sin ascensor,Piso,"Numancia, Madrid",1 hab, 25 m
+2,Chalet adosado en Aravaca  Madrid,2900,3 hab 120 m 16 horas,Chalet,"Aravaca, Madrid",3 hab, 120 m
+3,Estudio en calle Galería de Robles  MalasañaUniversidad  Madrid,850,45 m Bajo interior sin ascensor,Estudio,"Universidad, Madrid",0 estudio,0 estudio
+4,Piso en calle de Valencia  LavapiésEmbajadores  Madrid,750,1 hab 33 m Planta 1 interior sin ascensor 16 horas,Piso,"Embajadores, Madrid",1 hab, 33 m
+5,Piso en paseo de Santa María de la Cabeza  Chopera  Madrid,1590,2 hab 90 m Planta 2 exterior con ascensor,Piso,"Chopera, Madrid",2 hab, 90 m
+6,Estudio en calle Embalse de Navacerrada  Ensanche de Vallecas  La Gavia  Madrid,795,33 m Planta 5 exterior con ascensor 17 horas,Estudio,"Gavia, Madrid",0 estudio,0 estudio
+7,Piso en calle Sandalio López  Tres Olivos  Valverde  Madrid,950,1 hab 35 m Bajo exterior sin ascensor,Piso,"Valverde, Madrid",1 hab, 35 m
+8,Piso en calle Martínez Corrochano  29  Adelfas  Madrid,800,1 hab 40 m Planta 1 exterior con ascensor 17 horas,Piso,"Adelfas, Madrid",1 hab, 40 m
+9,Piso en Jerte  Palacio  Madrid,1090,1 hab 55 m Planta 3 interior con ascensor,Piso,"Palacio, Madrid",1 hab, 55 m
+10,Piso en plaza de Andrés Manjón  7  Castilla  Madrid,1400,2 hab 75 m Bajo exterior con ascensor 17 horas,Piso,"Castilla, Madrid",2 hab, 75 m
+11,Piso en calle de la Reina Mercedes  8  Cuatro Caminos  Madrid,990,1 hab 55 m Bajo exterior sin ascensor,Piso,"Cuatro Caminos, Madrid",1 hab, 55 m
+12,Piso en calle de Bretón de los Herreros  20  Nuevos MinisteriosRíos Rosas  Madrid,900,2 hab 50 m Planta 1 interior con ascensor 17 horas,Piso,"Ríos Rosas, Madrid",2 hab, 50 m
+13,Piso en calle de Aniceto Pérez  12 de OctubreOrcasur  Madrid,990,2 hab 45 m Bajo exterior con ascensor,Piso,"Orcasur, Madrid",2 hab, 45 m
+14,Ático en calle de Luchana  Trafalgar  Madrid,4300,3 hab 184 m Planta 7 exterior con ascensor 15 horas,Ático,"Trafalgar, Madrid",3 hab, 184 m
+15,Piso en calle de la Ribera de Curtidores  LavapiésEmbajadores  Madrid,1250,1 hab 55 m Planta 3 exterior con ascensor,Piso,"Embajadores, Madrid",1 hab, 55 m
+16,Piso en Goya  Madrid,990,1 hab 65 m Planta 5 exterior con ascensor 17 horas,Piso,"Goya, Madrid",1 hab, 65 m
+17,Piso en calle Calatrava  Palacio  Madrid,950,1 hab 50 m Planta 3 interior sin ascensor,Piso,"Palacio, Madrid",1 hab, 50 m
+18,Estudio en MalasañaUniversidad  Madrid,1000,35 m Planta 2 interior con ascensor 17 horas,Estudio,"Universidad, Madrid",0 estudio,0 estudio
+19,Estudio en calle Mayor  Sol  Madrid,1050,35 m Planta 3 exterior con ascensor,Estudio,"Sol, Madrid",0 estudio,0 estudio
+20,Piso en calle de Ibiza  Ibiza  Madrid,2000,1 hab 87 m Planta 2 exterior con ascensor 17 horas,Piso,"Ibiza, Madrid",1 hab, 87 m
+21,Piso en calle del Marqués de Mondéjar  Fuente del Berro  Madrid,1150,1 hab 50 m Planta 1 interior sin ascensor,Piso," Fuente del Berro, Madrid",1 hab, 50 m
+22,Ático en calle de Alcántara  Lista  Madrid,2900,3 hab 120 m Planta 7 exterior con ascensor 15 horas,Ático,"Lista, Madrid",3 hab, 120 m
+23,Piso en calle Tírvia  Ciudad Universitaria  Madrid,1050,1 hab 43 m Bajo exterior sin ascensor 30 ago,Piso,"Ciudad Universitaria, Madrid",1 hab, 43 m
+24,Piso en Calamón  Campamento  Madrid,2100,3 hab 74 m Planta 3 exterior sin ascensor 17 horas,Piso,"Campamento, Madrid",3 hab, 74 m
+25,Ático en calle de la Princesa  26  MalasañaUniversidad  Madrid,1360,2 hab 60 m Planta 5 interior con ascensor,Ático,"Universidad, Madrid",2 hab, 60 m
+26,Dúplex en san Juan de Ortega  100  Las Tablas  Madrid,2100,2 hab 105 m Planta 5 interior con ascensor 17 horas,Dúplex,"Tablas, Madrid",2 hab, 105 m
+27,Estudio en Lagasca  Recoletos  Madrid,1100,32 m Planta 4 interior con ascensor,Estudio,"Recoletos, Madrid",0 estudio,0 estudio
+28,Estudio en calle de Don Ramón de la Cruz  62  Goya  Madrid,1500,42 m Planta 3 exterior con ascensor 17 horas,Estudio,"Goya, Madrid",0 estudio,0 estudio
+29,Piso en ronda de Segovia  50  Imperial  Madrid,1700,3 hab 110 m Planta 1 exterior con ascensor 23 horas,Piso,"Imperial, Madrid",3 hab, 110 m
+0,Dúplex en san Juan de Ortega  100  Las Tablas  Madrid,2100,2 hab 105 m Planta 5 interior con ascensor 17 horas,Dúplex,"Tablas, Madrid",2 hab, 105 m
+1,Piso en calle de Cardenal Mendoza  Puerta del Ángel  Madrid,1100,1 hab 65 m Bajo exterior con ascensor 13 horas,Piso,"Puerta del Ángel, Madrid",1 hab, 65 m
+2,Estudio en calle de Don Ramón de la Cruz  62  Goya  Madrid,1500,42 m Planta 3 exterior con ascensor 17 horas,Estudio,"Goya, Madrid",0 estudio,0 estudio
+3,Piso en calle Solana de Luche  Puerta del Ángel  Madrid,1350,3 hab 70 m Planta 2 exterior sin ascensor 13 horas,Piso,"Puerta del Ángel, Madrid",3 hab, 70 m
+4,Piso en paseo San Francisco de Sales  Vallehermoso  Madrid,2350,2 hab 93 m Planta 1 exterior con ascensor 17 horas,Piso,"Vallehermoso, Madrid",2 hab, 93 m
+5,Piso en calle industria  Puerta del Ángel  Madrid,1050,1 hab 50 m Planta 2 exterior con ascensor 13 horas,Piso,"Puerta del Ángel, Madrid",1 hab, 50 m
+6,Piso en calle de Costa Rica  14  BernabéuHispanoamérica  Madrid,1450,2 hab 75 m Bajo exterior con ascensor 17 horas,Piso,"Hispanoamérica, Madrid",2 hab, 75 m
+7,Piso en calle industria  Puerta del Ángel  Madrid,1050,1 hab 50 m Planta 1 exterior con ascensor 13 horas,Piso,"Puerta del Ángel, Madrid",1 hab, 50 m
+8,Piso en Ignacio Ellacuria  18  Ventas  Madrid,800,1 hab 57 m Bajo exterior con ascensor 17 horas,Piso,"Ventas, Madrid",1 hab, 57 m
+9,Piso en Blasco de Garay  Arapiles  Madrid,1900,2 hab 92 m Planta 6 exterior con ascensor,Piso,"Arapiles, Madrid",2 hab, 92 m
+10,Piso en calle Sierra de Pajarejo  7  Valdemarín  Madrid,1300,1 hab 75 m Planta 1 exterior con ascensor 17 horas,Piso,"Valdemarín, Madrid",1 hab, 75 m
+11,Piso en calle Minas  7  MalasañaUniversidad  Madrid,950,2 hab 50 m Planta 2 interior sin ascensor,Piso,"Universidad, Madrid",2 hab, 50 m
+12,Chalet pareado en calle de Formigal  Valdemarín  Madrid,5500,4 hab 336 m 16 horas,Chalet,"Valdemarín, Madrid",4 hab, 336 m
+13,Piso en Recoletos  Madrid,2700,2 hab 135 m Planta 3 exterior con ascensor,Piso,"Recoletos, Madrid",2 hab, 135 m
+14,Piso en avenida Betanzos  Pilar  Madrid,950,2 hab 60 m Planta 4 exterior con ascensor 17 horas,Piso,"Pilar, Madrid",2 hab, 60 m
+15,Piso en calle de Amaniel  MalasañaUniversidad  Madrid,1300,1 hab 65 m Planta 1 exterior con ascensor,Piso,"Universidad, Madrid",1 hab, 65 m
+16,Piso en calle Mozart  Casa de Campo  Madrid,1500,2 hab 105 m Planta 7 exterior con ascensor 17 horas,Piso,"Casa de Campo, Madrid",2 hab, 105 m
+17,Estudio en Quintana  Madrid,650,29 m Bajo exterior sin ascensor 04 sep,Estudio,"Quintana, Madrid",0 estudio,0 estudio
+18,Piso en calle de Altamirano  6  Argüelles  Madrid,1800,3 hab 62 m Planta 5 interior con ascensor 3 horas,Piso,"Argüelles, Madrid",3 hab, 62 m
+19,Piso en HuertasCortes  Madrid,3500,3 hab 129 m Planta 6 exterior con ascensor,Piso,"Cortes, Madrid",3 hab, 129 m
+20,Piso en Nuevos MinisteriosRíos Rosas  Madrid,2700,3 hab 141 m Bajo interior con ascensor 18 horas,Piso,"Ríos Rosas, Madrid",3 hab, 141 m
+21,Dúplex en calle de Palafox  Trafalgar  Madrid,3900,2 hab 108 m Planta 4 exterior con ascensor,Dúplex,"Trafalgar, Madrid",2 hab, 108 m
+22,Piso en calle del Monte Urgull  Numancia  Madrid,790,2 hab 39 m Planta 1 exterior sin ascensor 18 horas,Piso,"Numancia, Madrid",2 hab, 39 m
+23,Estudio en calle de San Lorenzo  ChuecaJusticia  Madrid,2200,50 m Bajo exterior con ascensor,Estudio,"Justicia, Madrid",0 estudio,0 estudio
+24,Piso en calle de Oliva de Plasencia  Águilas  Madrid,850,3 hab 75 m Planta 4 exterior con ascensor 18 horas,Piso,"Águilas, Madrid",3 hab, 75 m
+25,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 85 m
+26,Piso en Trafalgar  Madrid,1500,3 hab 73 m Planta 1 exterior con ascensor 18 horas,Piso,"Trafalgar, Madrid",3 hab, 73 m
+27,Piso en calle de San Bernardo  MalasañaUniversidad  Madrid,3600,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 85 m
+28,Piso en avenida de la Aviación  Águilas  Madrid,800,3 hab 90 m Planta 4 exterior sin ascensor 18 horas,Piso,"Águilas, Madrid",3 hab, 90 m
+29,Piso en paseo de la Dirección  Valdeacederas  Madrid,2300,1 hab 50 m Planta 22 exterior con ascensor,Piso,"Valdeacederas, Madrid",1 hab, 50 m
+0,Piso en zurron  12  Timón  Madrid,895,2 hab 69 m Bajo exterior con ascensor 19 horas,Piso,"Timón, Madrid",2 hab, 69 m
+1,Piso en calle de García de Paredes  Almagro  Madrid,4800,3 hab 149 m Planta 1 exterior con ascensor,Piso,"Almagro, Madrid",3 hab, 149 m
+2,Ático en calle del Olmo  25  LavapiésEmbajadores  Madrid,1800,3 hab 70 m Planta 4 exterior sin ascensor 18 horas,Ático,"Embajadores, Madrid",3 hab, 70 m
+3,Dúplex en calle de San Bernardo  MalasañaUniversidad  Madrid,4100,2 hab 88 m Planta 4 exterior con ascensor 22 horas,Dúplex,"Universidad, Madrid",2 hab, 88 m
+4,Dúplex en plaza de Tuy  Pilar  Madrid,1800,3 hab 120 m Entreplanta exterior con ascensor 3 horas,Dúplex,"Pilar, Madrid",3 hab, 120 m
+5,Piso en Lista  Madrid,2500,2 hab 95 m Planta 2 exterior con ascensor,Piso,"Lista, Madrid",2 hab, 95 m
+6,Piso en paseo de Extremadura  Puerta del Ángel  Madrid,990,2 hab 32 m Planta 2 exterior sin ascensor 19 horas,Piso,"Puerta del Ángel, Madrid",2 hab, 32 m
+7,Piso en Recoletos  Madrid,3800,3 hab 145 m Planta 3 exterior con ascensor,Piso,"Recoletos, Madrid",3 hab, 145 m
+8,Piso en plaza de las Cortes  HuertasCortes  Madrid,1500,1 hab 70 m Planta 5 exterior con ascensor 19 horas,Piso,"Cortes, Madrid",1 hab, 70 m
+9,Piso en Nuevos MinisteriosRíos Rosas  Madrid,2190,3 hab 80 m Planta 4 exterior con ascensor,Piso,"Ríos Rosas, Madrid",3 hab, 80 m
+10,Piso en HuertasCortes  Madrid,1800,1 hab 65 m Planta 6 exterior con ascensor 19 horas,Piso,"Cortes, Madrid",1 hab, 65 m
+11,Piso en Almagro  Madrid,1900,1 hab 95 m Entreplanta exterior con ascensor,Piso,"Almagro, Madrid",1 hab, 95 m
+12,Piso en calle Marmolistas  Arcos  Madrid,930,3 hab 68 m Bajo exterior sin ascensor 19 horas,Piso,"Arcos, Madrid",3 hab, 68 m
+13,Piso en Nuevos MinisteriosRíos Rosas  Madrid,3900,4 hab 215 m Planta 3 exterior con ascensor,Piso,"Ríos Rosas, Madrid",4 hab, 215 m
+14,Piso en calle San Valero  Numancia  Madrid,900,3 hab 64 m Planta 4 exterior sin ascensor 19 horas,Piso,"Numancia, Madrid",3 hab, 64 m
+15,Ático en calle Archiduque Alberto  23  Sanchinarro  Madrid,1120,1 hab 64 m Planta 6 exterior con ascensor 23 horas,Ático,"Sanchinarro, Madrid",1 hab, 64 m
+16,Piso en calle de Manuel Maroto  San Diego  Madrid,830,2 hab 56 m Planta 3 exterior sin ascensor 19 horas,Piso,"San Diego, Madrid",2 hab, 56 m
+17,Piso en calle Alcalde Sáenz de Baranda  Ibiza  Madrid,2700,4 hab 157 m Planta 2 exterior con ascensor,Piso,"Ibiza, Madrid",4 hab, 157 m
+18,Piso en avenida de América  Prosperidad  Madrid,2400,2 hab 94 m Planta 4 exterior con ascensor 19 horas,Piso,"Prosperidad, Madrid",2 hab, 94 m
+19,Casa o chalet independiente en calle de Arévalo Lara  Salvador  Madrid,2700,4 hab 200 m 04 sep,Chalet,"El Salvador, Madrid",4 hab, 200 m
+20,Piso en calle Manuel María Iglesias  San Juan Bautista  Madrid,3800,5 hab 214 m Planta 2 exterior con ascensor 19 horas,Piso,"San Juan Bautista, Madrid",5 hab, 214 m
+21,Piso en calle de Hermosilla  Goya  Madrid,1365,2 hab 56 m Planta 1 interior con ascensor,Piso,"Goya, Madrid",2 hab, 56 m
+22,Piso en Soto Hidalgo  4  Alameda de Osuna  Madrid,1400,4 hab 126 m Planta 4 exterior con ascensor 19 horas,Piso,"Alamenda de Osuna, Madrid",4 hab, 126 m
+23,Piso en calle de Cartagena  Guindalera  Madrid,1300,1 hab 79 m Planta 4 exterior con ascensor,Piso,"Guindalera, Madrid",1 hab, 79 m
+24,Piso en calle Santiago Cuende  5  Puerta Bonita  Madrid,850,2 hab 55 m Bajo exterior sin ascensor 19 horas,Piso,"Puerta Bonita, Madrid",2 hab, 55 m
+25,Piso en calle de Diego de León  Castellana  Madrid,3300,3 hab 169 m Planta 6 exterior con ascensor,Piso,"Castellana, Madrid",3 hab, 169 m
+26,Casa o chalet independiente en Conde OrgazPiovera  Madrid,10000,6 hab 447 m 19 horas,Chalet,"Piovera, Madrid",6 hab, 447 m
+27,Piso en calle del Pintor Ignacio de Zuloaga  2  Sanchinarro  Madrid,1215,2 hab 76 m Planta 3 con ascensor 04 sep,Piso,"Sanchinarro, Madrid",2 hab, 76 m
+28,Piso en Peñagrande  Madrid,3200,4 hab 238 m Planta 6 exterior con ascensor 19 horas,Piso,"Peñagrande, Madrid",4 hab, 238 m
+29,Ático en plaza de Juan Zorrilla  Vallehermoso  Madrid,2300,3 hab 138 m Planta 7 exterior con ascensor,Ático,"Vallehermoso, Madrid",3 hab, 138 m
+0,Piso en Peñagrande  Madrid,3200,4 hab 238 m Planta 6 exterior con ascensor 19 horas,Piso,"Peñagrande, Madrid",4 hab, 238 m
+1,Ático en plaza de Juan Zorrilla  Vallehermoso  Madrid,2300,3 hab 138 m Planta 7 exterior con ascensor,Ático,"Vallehermoso, Madrid",3 hab, 138 m
+2,Ático en calle de ODonnell  40  Ibiza  Madrid,3600,3 hab 150 m Planta 8 exterior con ascensor 19 horas,Ático,"Ibiza, Madrid",3 hab, 150 m
+3,Piso en calle de Santa Isabel  42  LavapiésEmbajadores  Madrid,1490,2 hab 76 m Planta 3 exterior con ascensor 23 horas,Piso,"Embajadores, Madrid",2 hab, 76 m
+4,Piso en Cava Baja  Palacio  Madrid,2200,3 hab 110 m Planta 3 exterior con ascensor 19 horas,Piso,"Palacio, Madrid",3 hab, 110 m
+5,Piso en calle del Divino Pastor  MalasañaUniversidad  Madrid,1800,2 hab 77 m Planta 1 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 77 m
+6,Piso en calle de la Villa de Marín  29  La Paz  Madrid,1800,4 hab 137 m Planta 11 exterior con ascensor 19 horas,Piso,"La Paz, Madrid",4 hab, 137 m
+7,Piso en calle Donoso Cortés  Gaztambide  Madrid,3000,5 hab 130 m Planta 5 exterior con ascensor,Piso,"Gaztambide, Madrid",5 hab, 130 m
+8,Piso en calle del Puerto del Bruch  Casco Histórico de Vallecas  Madrid,910,3 hab 58 m Planta 4 exterior sin ascensor 20 horas,Piso,"Ensanche de Vallecas, Madrid",3 hab, 58 m
+9,Piso en avenida del talgo  Aravaca  Madrid,1200,2 hab 70 m Planta 4 exterior con ascensor,Piso,"Aravaca, Madrid",2 hab, 70 m
+10,Piso en calle de Dulce Chacón  Virgen del Cortijo  Manoteras  Madrid,3000,3 hab 160 m Planta 1 interior con ascensor 20 horas,Piso,"Manoteras, Madrid",3 hab, 160 m
+11,Piso en Estrella  Madrid,2500,3 hab 165 m exterior con ascensor,Piso,"Estrella, Madrid",3 hab, 165 m
+12,Piso en Arturo soria  Costillares  Madrid,1390,3 hab 110 m Bajo exterior con ascensor 18 horas,Piso,"Costillares, Madrid",3 hab, 110 m
+13,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1395,3 hab 132 m Bajo exterior con ascensor,Piso,"El Cañaveral, Madrid",3 hab, 132 m
+14,Piso en calle del Espíritu Santo  24  MalasañaUniversidad  Madrid,1300,1 hab 50 m Planta 1 exterior con ascensor 20 horas,Piso,"Universidad, Madrid",1 hab, 50 m
+15,Piso en MalasañaUniversidad  Madrid,3100,3 hab 170 m exterior con ascensor,Piso,"Universidad, Madrid",3 hab, 170 m
+16,Piso en calle de Joaquín Martín  Opañel  Madrid,800,1 hab 50 m Planta 2 exterior sin ascensor 19 horas,Piso,"Opañel, Madrid",1 hab, 50 m
+17,Piso en Castilla  Madrid,3950,3 hab 171 m Planta 1 exterior con ascensor,Piso,"Castilla, Madrid",3 hab, 171 m
+18,Piso en avenida de Secundino Zuazo  73  Valdebebas  Valdefuentes  Madrid,1150,3 hab 120 m Planta 3 exterior con ascensor 20 horas,Piso,"Valdefuentes, Madrid",3 hab, 120 m
+19,Piso en Argüelles  Madrid,2500,1 hab 73 m Planta 12 exterior con ascensor,Piso,"Argüelles, Madrid",1 hab, 73 m
+20,Piso en calle de Ocaña  56  Aluche  Madrid,850,3 hab 70 m Bajo exterior con ascensor 20 horas,Piso,"Aluche, Madrid",3 hab, 70 m
+21,Piso en calle de Tribulete  LavapiésEmbajadores  Madrid,1100,2 hab 47 m Planta 2 exterior con ascensor,Piso,"Embajadores, Madrid",2 hab, 47 m
+22,Piso en avenida Moratalaz  Vinateros  Madrid,775,2 hab 64 m Planta 4 exterior con ascensor 20 horas,Piso,"Vinateros, Madrid",2 hab, 64 m
+23,Piso en plaza de las Cortes  HuertasCortes  Madrid,1500,1 hab 60 m Planta 5 exterior con ascensor,Piso,"Cortes, Madrid",1 hab, 60 m
+24,Piso en calle del Olivar  LavapiésEmbajadores  Madrid,1100,1 hab 38 m Planta 3 exterior sin ascensor 20 horas,Piso,"Embajadores, Madrid",1 hab, 38 m
+25,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1115,2 hab 94 m Planta 1 exterior con ascensor,Piso,"El Cañaveral, Madrid",2 hab, 94 m
+26,Piso en paseo de Santa María de la Cabeza  124  Comillas  Madrid,1100,3 hab 59 m Planta 5 exterior con ascensor 20 horas,Piso,"Comillas, Madrid",3 hab, 59 m
+27,Piso en calle del Prado  HuertasCortes  Madrid,1490,2 hab 110 m Planta 1 interior con ascensor,Piso,"Cortes, Madrid",2 hab, 110 m
+28,Dúplex en calle de la ribera de curtidores  16  LavapiésEmbajadores  Madrid,825,2 hab 58 m Planta 4 exterior sin ascensor 20 horas,Dúplex,"Embajadores, Madrid",2 hab, 58 m
+29,Piso en calle de Francisco Silvela  Lista  Madrid,1590,1 hab 54 m Planta 1 exterior con ascensor,Piso,"Lista, Madrid",1 hab, 54 m
+0,Piso en Almagro  Madrid,2700,3 hab 141 m Bajo interior con ascensor 20 horas,Piso,"Almagro, Madrid",3 hab, 141 m
+1,Piso en Paseo De La Castellana  201  VentillaAlmenara  Madrid,1900,2 hab 90 m Planta 5 exterior con ascensor,Piso,"Almenara, Madrid",2 hab, 90 m
+2,Piso en LavapiésEmbajadores  Madrid,1450,2 hab 70 m Planta 4 exterior con ascensor 20 horas,Piso,"Embajadores, Madrid",2 hab, 70 m
+3,Piso en paseo Castellana  203  VentillaAlmenara  Madrid,1900,2 hab 90 m Planta 5 exterior con ascensor,Piso,"Almenara, Madrid",2 hab, 90 m
+4,Piso en calle del General Margallo  24  CuzcoCastillejos  Madrid,1200,2 hab 70 m Planta 1 interior con ascensor 20 horas,Piso,"Castillejos, Madrid",2 hab, 70 m
+5,Piso en calle del Gasómetro  Acacias  Madrid,1900,3 hab 110 m Bajo exterior sin ascensor 23 horas,Piso,"Acacias, Madrid",3 hab, 110 m
+6,Piso en calle de Camarena  112  Aluche  Madrid,950,4 hab 70 m Bajo exterior sin ascensor 20 horas,Piso,"Aluche, Madrid",4 hab, 70 m
+7,Piso en calle de Astorga  Ventas  Madrid,1400,3 hab 75 m Bajo exterior con ascensor,Piso,"Ventas, Madrid",3 hab, 75 m
+8,Piso en paseo de La Habana  46  El Viso  Madrid,1900,3 hab 113 m Planta 4 exterior con ascensor 21 horas,Piso,"El Viso, Madrid",3 hab, 113 m
+9,Piso en alameda de osuna  50  Alameda de Osuna  Madrid,1700,3 hab 156 m Planta 3 exterior con ascensor,Piso,"Alamenda de Osuna, Madrid",3 hab, 156 m
+10,Piso en paseo de La Habana  BernabéuHispanoamérica  Madrid,2600,4 hab 165 m Planta 5 exterior con ascensor 21 horas,Piso,"Hispanoamérica, Madrid",4 hab, 165 m
+11,Piso en calle del Conde de Aranda  Recoletos  Madrid,1900,1 hab 43 m Planta 6 interior con ascensor,Piso,"Recoletos, Madrid",1 hab, 43 m
+12,Piso en calle de la Costa Brava  47  Mirasierra  Madrid,2800,4 hab 187 m Planta 6 exterior con ascensor 21 horas,Piso,"Mirasierra, Madrid",4 hab, 187 m
+13,Piso en El Santo de la Isidra  10  Los Ángeles  Madrid,800,1 hab 66 m Planta 4 exterior con ascensor,Piso,"Ángeles, Madrid",1 hab, 66 m
+14,Piso en calle de Federico Grases  Puerta Bonita  Madrid,750,3 hab 63 m Planta 1 exterior sin ascensor 21 horas,Piso,"Puerta Bonita, Madrid",3 hab, 63 m
+15,Piso en Canillas  Madrid,4500,4 hab 323 m Planta 7 exterior con ascensor,Piso,"Canillas, Madrid",4 hab, 323 m
+16,Piso en calle San Severo  sn  Alameda de Osuna  Madrid,2000,3 hab 186 m Planta 2 exterior con ascensor 21 horas,Piso,"Alamenda de Osuna, Madrid",3 hab, 186 m
+17,Piso en calle la Granja de San Ildefonso  28  Ensanche de Vallecas  La Gavia  Madrid,1000,2 hab 73 m Planta 2 exterior con ascensor,Piso,"Gavia, Madrid",2 hab, 73 m
+18,Piso en BernabéuHispanoamérica  Madrid,2200,3 hab 102 m Planta 1 exterior con ascensor 21 horas,Piso,"Hispanoamérica, Madrid",3 hab, 102 m
+19,Piso en calle de Maldonado  Lista  Madrid,3450,4 hab 200 m Planta 2 exterior con ascensor,Piso,"Lista, Madrid",4 hab, 200 m
+20,Piso en calle Martín Muñoz de las Posadas  7  Ensanche de Vallecas  La Gavia  Madrid,1095,3 hab 105 m Planta 6 con ascensor 21 horas,Piso,"Gavia, Madrid",3 hab, 105 m
+21,Piso en calle la Canción del Olvido  62  Los Ángeles  Madrid,932,2 hab 74 m Planta 1 exterior con ascensor,Piso,"Ángeles, Madrid",2 hab, 74 m
+22,Ático en calle Víctor Hugo  5  ChuecaJusticia  Madrid,2500,3 hab 148 m Planta 6 exterior con ascensor 21 horas,Ático,"Justicia, Madrid",3 hab, 148 m
+23,Piso en calle de Caramuel  Puerta del Ángel  Madrid,1650,2 hab 67 m Planta 1 exterior sin ascensor,Piso,"Puerta del Ángel, Madrid",2 hab, 67 m
+24,Piso en calle de Orense  12  Cuatro Caminos  Madrid,1100,1 hab 60 m Planta 6 exterior con ascensor 21 horas,Piso,"Cuatro Caminos, Madrid",1 hab, 60 m
+25,Piso en calle del Lucero del Alba  1  Los Ángeles  Madrid,940,2 hab 74 m Planta 4 exterior con ascensor,Piso,"Ángeles, Madrid",2 hab, 74 m
+26,Piso en calle de José María de Pereda  Ventas  Madrid,790,2 hab 69 m Planta 1 exterior con ascensor 21 horas,Piso,"Ventas, Madrid",2 hab, 69 m
+27,Piso en calle Arte Pop  8  Ensanche de Vallecas  La Gavia  Madrid,820,1 hab 48 m Planta 7 exterior con ascensor,Piso,"Gavia, Madrid",1 hab, 48 m
+28,Piso en calle de Rafael Herrera  11  Castilla  Madrid,1300,1 hab 55 m Planta 5 exterior con ascensor 21 horas,Piso,"Castilla, Madrid",1 hab, 55 m
+29,Piso en calle de Caramuel  Puerta del Ángel  Madrid,1650,2 hab 86 m Planta 1 exterior sin ascensor,Piso,"Puerta del Ángel, Madrid",2 hab, 86 m
+0,Piso en bulevar de José Prat  Valdebernardo  Valderrivas  Madrid,970,3 hab 95 m Planta 5 exterior con ascensor 21 horas,Piso,"Valderrivas, Madrid",3 hab, 95 m
+1,Piso en calle Arte Pop  8  Ensanche de Vallecas  La Gavia  Madrid,975,2 hab 80 m Planta 5 exterior con ascensor,Piso,"Gavia, Madrid",2 hab, 80 m
+2,Piso en calle Víctor Andrés Belaunde  BernabéuHispanoamérica  Madrid,1300,1 hab 55 m Planta 1 interior con ascensor 21 horas,Piso,"Hispanoamérica, Madrid",1 hab, 55 m
+3,Piso en calle de Atocha  HuertasCortes  Madrid,1300,1 hab 64 m Bajo interior con ascensor,Piso,"Cortes, Madrid",1 hab, 64 m
+4,Piso en Corredera Baja de San Pablo  47  MalasañaUniversidad  Madrid,990,1 hab 60 m Sótano exterior con ascensor 21 horas,Piso,"Universidad, Madrid",1 hab, 60 m
+5,Piso en Castellana  Madrid,5500,4 hab 220 m Planta 1 exterior con ascensor,Piso,"Castellana, Madrid",4 hab, 220 m
+6,Piso en calle de Alcalá  Ventas  Madrid,750,1 hab 55 m Planta 1 exterior sin ascensor 21 horas,Piso,"Ventas, Madrid",1 hab, 55 m
+7,Piso en Colina  Madrid,3500,4 hab 211 m Planta 1 exterior con ascensor,Piso,"Colina, Madrid",4 hab, 211 m
+8,Piso en calle de Ricardo Ortiz  Ventas  Madrid,1190,3 hab 106 m Planta 3 exterior con ascensor 21 horas,Piso,"Ventas, Madrid",3 hab, 106 m
+9,Piso en calle de Modesto Lafuente  Nuevos MinisteriosRíos Rosas  Madrid,2100,3 hab 144 m Planta 3 exterior con ascensor,Piso,"Ríos Rosas, Madrid",3 hab, 144 m
+10,Piso en calle del Doctor Vallejo  Quintana  Madrid,900,2 hab 60 m Planta 3 exterior sin ascensor 21 horas,Piso,"Quintana, Madrid",2 hab, 60 m
+11,Casa o chalet independiente en Armonía  24  Palomas  Madrid,7000,4 hab 331 m,Chalet,"Palomas, Madrid",4 hab, 331 m
+12,Piso en Numancia  Madrid,1200,3 hab 75 m Planta 2 exterior con ascensor 21 horas,Piso,"Numancia, Madrid",3 hab, 75 m
+13,Piso en calle de Linneo  Imperial  Madrid,1650,3 hab 103 m Planta 3 interior con ascensor,Piso,"Imperial, Madrid",3 hab, 103 m
+14,Piso en calle Jerez de los Caballeros  2  Casco Histórico de Barajas  Madrid,750,1 hab 45 m Planta 2 exterior con ascensor 21 horas,Piso,"Barajas, Madrid",1 hab, 45 m
+15,Piso en Castellana  Madrid,14500,3 hab 373 m Planta 2 exterior con ascensor,Piso,"Castellana, Madrid",3 hab, 373 m
+16,Piso en calle de los Yébenes  Aluche  Madrid,1150,3 hab 104 m Planta 4 exterior con ascensor 21 horas,Piso,"Aluche, Madrid",3 hab, 104 m
+17,Piso en calle de Miguel Ángel  3  Almagro  Madrid,2200,1 hab 55 m Planta 7 interior con ascensor,Piso,"Almagro, Madrid",1 hab, 55 m
+18,Piso en Rejas  Madrid,1350,1 hab 51 m Planta 1 exterior con ascensor 21 horas,Piso,"Rejas, Madrid",1 hab, 51 m
+19,Piso en ChuecaJusticia  Madrid,1350,1 hab 45 m Planta 4 interior con ascensor,Piso,"Justicia, Madrid",1 hab, 45 m
+20,Piso en calle de las Islas Cíes  Peñagrande  Madrid,1100,4 hab 100 m Planta 6 exterior con ascensor 21 horas,Piso,"Peñagrande, Madrid",4 hab, 100 m
+21,Piso en BernabéuHispanoamérica  Madrid,2500,2 hab 120 m Planta 9 exterior con ascensor,Piso,"Hispanoamérica, Madrid",2 hab, 120 m
+22,Piso en calle del Real Madrid  Puerta Bonita  Madrid,960,3 hab 61 m Planta 2 exterior sin ascensor 21 horas,Piso,"Puerta Bonita, Madrid",3 hab, 61 m
+23,Chalet pareado en Conde OrgazPiovera  Madrid,4500,5 hab 313 m,Chalet,"Piovera, Madrid",5 hab, 313 m
+24,Piso en calle de los Tejedores  Amposta  Madrid,910,3 hab 62 m Planta 2 exterior sin ascensor 21 horas,Piso,"Amposta, Madrid",3 hab, 62 m
+25,Piso en BernabéuHispanoamérica  Madrid,2200,2 hab 114 m Planta 2 exterior con ascensor,Piso,"Hispanoamérica, Madrid",2 hab, 114 m
+26,Piso en Goya  Madrid,950,1 hab 50 m Planta 4 exterior con ascensor 21 horas,Piso,"Goya, Madrid",1 hab, 50 m
+27,Piso en calle de Ayala  Goya  Madrid,3800,2 hab 111 m Planta 3 exterior con ascensor,Piso,"Goya, Madrid",2 hab, 111 m
+28,Piso en calle de ODonnell  Goya  Madrid,4500,3 hab 179 m Planta 2 exterior con ascensor 21 horas,Piso,"Goya, Madrid",3 hab, 179 m
+29,Piso en Almagro  Madrid,15000,10 hab 1400 m Planta 4 exterior con ascensor,Piso,"Almagro, Madrid",10 hab, 1400
+0,Piso en calle de Santa Cruz de Mudela  Almendrales  Madrid,900,4 hab 80 m Planta 4 exterior con ascensor 21 horas,Piso,"Almendrales, Madrid",4 hab, 80 m
+1,Piso en calle de Lagasca  Recoletos  Madrid,3500,1 hab 150 m Planta 6 exterior con ascensor,Piso,"Recoletos, Madrid",1 hab, 150 m
+2,Piso en calle de Francisco Suárez  Nueva España  Madrid,2400,4 hab 150 m Planta 3 exterior con ascensor 21 horas,Piso,"Nueva España, Madrid",4 hab, 150 m
+3,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1085,2 hab 85 m Planta 3 exterior con ascensor,Piso,"El Cañaveral, Madrid",2 hab, 85 m
+4,Piso en calle del Espejo  Palacio  Madrid,1700,2 hab 70 m Planta 3 interior con ascensor 1 hora,Piso,"Palacio, Madrid",2 hab, 70 m
+5,Dúplex en calle de Lagasca  Castellana  Madrid,9000,5 hab 320 m Planta 5 exterior con ascensor,Dúplex,"Castellana, Madrid",5 hab, 320 m
+6,Piso en Niño Jesús  Madrid,3700,4 hab 214 m Planta 6 exterior con ascensor 21 horas,Piso,"Niño Jesús, Madrid",4 hab, 214 m
+7,Piso en Nueva España  Madrid,3500,4 hab 210 m exterior con ascensor,Piso,"Nueva España, Madrid",4 hab, 210 m
+8,Piso en calle del Porvenir  Fuente del Berro  Madrid,1200,2 hab 67 m Planta 2 exterior sin ascensor 22 horas,Piso," Fuente del Berro, Madrid",2 hab, 67 m
+9,Ático en calle Anna Frank  19  El Cañaveral  Madrid,1325,2 hab 114 m Planta 7 exterior con ascensor,Ático,"El Cañaveral, Madrid",2 hab, 114 m
+10,Piso en calle del Limón  MalasañaUniversidad  Madrid,1500,3 hab 80 m Planta 4 exterior sin ascensor 22 horas,Piso,"Universidad, Madrid",3 hab, 80 m
+11,Casa o chalet independiente en Valdemarín  Madrid,5250,5 hab 343 m,Chalet,"Valdemarín, Madrid",5 hab, 343 m
+12,Piso en calle de Alucas  4  Pueblo Nuevo  Madrid,850,2 hab 55 m Planta 3 exterior con ascensor 22 horas,Piso,"Pueblo Nuevo, Madrid",2 hab, 55 m
+13,Piso en Vallehermoso  Madrid,2600,3 hab 173 m Planta 8 exterior con ascensor,Piso,"Vallehermoso, Madrid",3 hab, 173 m
+14,Piso en calle drácena  Nueva España  Madrid,1500,2 hab 80 m Planta 1 exterior con ascensor 22 horas,Piso,"Nueva España, Madrid",2 hab, 80 m
+15,Ático en calle Arroyo del Cañaveral  66  El Cañaveral  Madrid,1595,1 hab 64 m Planta 7 exterior con ascensor,Ático,"El Cañaveral, Madrid",1 hab, 64 m
+16,Piso en calle del Conde de Peñalver  83  Lista  Madrid,2200,2 hab 65 m Planta 4 interior con ascensor 22 horas,Piso,"Lista, Madrid",2 hab, 65 m
+17,Piso en calle de Lagasca  99  Castellana  Madrid,14000,4 hab 355 m Planta 6 exterior con ascensor,Piso,"Castellana, Madrid",4 hab, 355 m
+18,Piso en calle Provisiones  LavapiésEmbajadores  Madrid,1650,3 hab 87 m Planta 5 exterior con ascensor 1 hora,Piso,"Embajadores, Madrid",3 hab, 87 m
+19,Piso en calle de las Viñas del Rio  16  Butarque  Madrid,1150,3 hab 93 m Planta 1 exterior con ascensor,Piso,"Butarque, Madrid",3 hab, 93 m
+20,Ático en Trafalgar  Madrid,2100,1 hab 83 m Planta 6 exterior con ascensor 22 horas,Ático,"Trafalgar, Madrid",1 hab, 83 m
+21,Ático en calle de Núñez de Balboa  Castellana  Madrid,6950,5 hab 268 m Planta 6 exterior con ascensor,Ático,"Castellana, Madrid",5 hab, 268 m
+22,Ático en calle de Palafox  Trafalgar  Madrid,3900,2 hab 89 m Planta 5 exterior sin ascensor 22 horas,Ático,"Trafalgar, Madrid",2 hab, 89 m
+23,Piso en calle de las Viñas del Rio  16  Butarque  Madrid,825,1 hab 50 m Planta 1 exterior con ascensor,Piso,"Butarque, Madrid",1 hab, 50 m
+24,Piso en calle de Don Ramón de la Cruz  Castellana  Madrid,5500,4 hab 230 m Planta 1 exterior con ascensor 22 horas,Piso,"Castellana, Madrid",4 hab, 230 m
+25,Piso en calle de las Viñas del Rio  16  Butarque  Madrid,995,2 hab 83 m Planta 1 exterior con ascensor,Piso,"Butarque, Madrid",2 hab, 83 m
+26,Piso en calle de Diego de León  Lista  Madrid,2700,4 hab 146 m Planta 4 exterior con ascensor 22 horas,Piso,"Lista, Madrid",4 hab, 146 m
+27,Dúplex en calle de la Buganvilla  4  Castilla  Madrid,3100,4 hab 318 m Planta 4 exterior con ascensor,Dúplex,"Castilla, Madrid",4 hab, 318 m
+28,Piso en calle de Benito Gutiérrez  35  Argüelles  Madrid,2200,3 hab 105 m Planta 1 exterior con ascensor 22 horas,Piso,"Argüelles, Madrid",3 hab, 105 m
+29,Piso en Fuente del Berro  Madrid,3300,4 hab 165 m exterior con ascensor,Piso," Fuente del Berro, Madrid",4 hab, 165 m
+0,Piso en aurora  Valdezarza  Madrid,1000,1 hab 42 m Planta 1 exterior sin ascensor 28 minutos,Piso,"Valdezarza, Madrid",1 hab, 42 m
+1,Piso en calle de Caleruega  50  Costillares  Madrid,2675,3 hab 180 m Planta 22 exterior con ascensor,Piso,"Costillares, Madrid",3 hab, 180 m
+2,Piso en Puerta Bonita  Madrid,900,2 hab 55 m Bajo exterior sin ascensor 30 minutos,Piso,"Puerta Bonita, Madrid",2 hab, 55 m
+3,Piso en El Viso  Madrid,1600,2 hab 90 m Planta 2 exterior con ascensor,Piso,"El Viso, Madrid",2 hab, 90 m
+4,Piso en plaza de Monterrey  Apóstol Santiago  Madrid,850,3 hab 71 m Planta 3 exterior sin ascensor 30 minutos,Piso,"Apóstol Santiago, Madrid",3 hab, 71 m
+5,Piso en calle del Pintor Ignacio de Zuloaga  2  Sanchinarro  Madrid,1225,2 hab 76 m Planta 5 con ascensor 2 horas,Piso,"Sanchinarro, Madrid",2 hab, 76 m
+6,Estudio en cuesta de las Descargas  8  Palacio  Madrid,750,40 m Planta 1 exterior con ascensor 31 minutos,Estudio,"Palacio, Madrid",0 estudio,0 estudio
+7,Piso en calle de María de Molina  Castellana  Madrid,2500,2 hab 85 m Planta 2 exterior con ascensor,Piso,"Castellana, Madrid",2 hab, 85 m
+8,Piso en calle Félix Boix  32  Nueva España  Madrid,7800,3 hab 590 m Planta 5 exterior con ascensor 33 minutos,Piso,"Nueva España, Madrid",3 hab, 590 m
+9,Piso en paseo Marqués de Monistrol  Puerta del Ángel  Madrid,1550,2 hab 60 m Planta 8 exterior con ascensor,Piso,"Puerta del Ángel, Madrid",2 hab, 60 m
+10,Piso en avenida de Portugal  177  Puerta del Ángel  Madrid,1200,3 hab 87 m Planta 4 exterior con ascensor 34 minutos,Piso,"Puerta del Ángel, Madrid",3 hab, 87 m
+11,Piso en calle Embajadores  LavapiésEmbajadores  Madrid,1200,1 hab 75 m Planta 1 exterior con ascensor,Piso,"Embajadores, Madrid",1 hab, 75 m
+12,Piso en calle de Carlos Arniches  LavapiésEmbajadores  Madrid,760,1 hab 35 m Bajo interior con ascensor 19 minutos,Piso,"Embajadores, Madrid",1 hab, 35 m
+13,Chalet adosado en Ensanche de Vallecas  La Gavia  Madrid,1600,5 hab 275 m,Chalet,"Gavia, Madrid",5 hab, 275 m
+14,Piso en calle de Hermosilla  Recoletos  Madrid,4100,3 hab 180 m Planta 4 exterior con ascensor 13 minutos,Piso,"Recoletos, Madrid",3 hab, 180 m
+15,Piso en calle de Núñez de Balboa  Recoletos  Madrid,4200,4 hab 200 m Planta 5 exterior con ascensor,Piso,"Recoletos, Madrid",4 hab, 200 m
+16,Piso en calle de José Antonio Navarrete  Conde OrgazPiovera  Madrid,1590,2 hab 116 m Planta 2 exterior con ascensor 38 minutos,Piso,"Piovera, Madrid",2 hab, 116 m
+17,Piso en calle de Isabel Clara Eugenia  43  Sanchinarro  Madrid,1340,2 hab 88 m Planta 4 exterior con ascensor,Piso,"Sanchinarro, Madrid",2 hab, 88 m
+18,Piso en calle de José Antonio Navarrete  Conde OrgazPiovera  Madrid,1955,3 hab 107 m Planta 3 exterior con ascensor 39 minutos,Piso,"Piovera, Madrid",3 hab, 107 m
+19,Piso en calle de ODonnell  Goya  Madrid,9000,4 hab 350 m Planta 5 exterior con ascensor,Piso,"Goya, Madrid",4 hab, 350 m
+20,Piso en calle de José Antonio Navarrete  Conde OrgazPiovera  Madrid,1395,2 hab 80 m Planta 1 exterior con ascensor 39 minutos,Piso,"Piovera, Madrid",2 hab, 80 m
+21,Piso en calle de Lombía  Goya  Madrid,2400,2 hab 82 m Planta 5 exterior con ascensor,Piso,"Goya, Madrid",2 hab, 82 m
+22,Piso en avenida de Machupichu  Conde OrgazPiovera  Madrid,1060,1 hab 39 m Planta 1 exterior con ascensor 39 minutos,Piso,"Piovera, Madrid",1 hab, 39 m
+23,Piso en Goya  Madrid,2300,1 hab 106 m exterior con ascensor 01 sep,Piso,"Goya, Madrid",1 hab, 106 m
+24,Piso en calle Manuel Aleixandre  12  Legazpi  Madrid,910,2 hab 40 m Planta 1 exterior con ascensor 38 minutos,Piso,"Legazpi, Madrid",2 hab, 40 m
+25,Piso en plaza de Cascorro  LavapiésEmbajadores  Madrid,2700,2 hab 94 m Planta 5 exterior con ascensor,Piso,"Embajadores, Madrid",2 hab, 94 m
+26,Piso en avenida del Papa Negro  Conde OrgazPiovera  Madrid,1460,2 hab 101 m exterior con ascensor 40 minutos,Piso,"Piovera, Madrid",2 hab, 101 m
+27,Piso en calle de Fernando VI  ChuecaJusticia  Madrid,3000,3 hab 124 m Planta 2 exterior con ascensor,Piso,"Justicia, Madrid",3 hab, 124 m
+28,Piso en Lucero  Madrid,1100,3 hab 78 m Planta 3 con ascensor 42 minutos,Piso,"Lucero, Madrid",3 hab, 78 m
+29,Piso en Castillo de Cadanchu  Las Tablas  Madrid,1300,2 hab 100 m Planta 1 exterior con ascensor,Piso,"Tablas, Madrid",2 hab, 100 m
+0,Piso en calle de Benito Gutiérrez  35  Argüelles  Madrid,2200,3 hab 105 m Planta 1 exterior con ascensor 22 horas,Piso,"Argüelles, Madrid",3 hab, 105 m
+1,Dúplex en calle de la Buganvilla  4  Castilla  Madrid,3100,4 hab 318 m Planta 4 exterior con ascensor,Dúplex,"Castilla, Madrid",4 hab, 318 m
+2,Piso en Montecarmelo  Madrid,1400,2 hab 103 m Planta 2 exterior con ascensor 23 horas,Piso,"Montecarmelo, Madrid",2 hab, 103 m
+3,Piso en BernabéuHispanoamérica  Madrid,1900,2 hab 70 m Planta 2 exterior sin ascensor,Piso,"Hispanoamérica, Madrid",2 hab, 70 m
+4,Piso en Ibiza  Madrid,2500,3 hab 120 m Planta 7 interior con ascensor 23 horas,Piso,"Ibiza, Madrid",3 hab, 120 m
+5,Piso en Vallehermoso  Madrid,2000,2 hab 93 m Planta 6 exterior con ascensor,Piso,"Vallehermoso, Madrid",2 hab, 93 m
+6,Piso en calle de los Relatores  10  LavapiésEmbajadores  Madrid,2500,2 hab 109 m Bajo exterior con ascensor 23 horas,Piso,"Embajadores, Madrid",2 hab, 109 m
+7,Piso en Sol  Madrid,2500,2 hab 140 m Planta 2 exterior con ascensor,Piso,"Sol, Madrid",2 hab, 140 m
+8,Piso en ChuecaJusticia  Madrid,2000,1 hab 72 m Planta 3 exterior con ascensor 23 horas,Piso,"Justicia, Madrid",1 hab, 72 m
+9,Piso en calle de la Montera  Sol  Madrid,1600,1 hab 55 m exterior con ascensor,Piso,"Sol, Madrid",1 hab, 55 m
+10,Piso en calle del Acuerdo  MalasañaUniversidad  Madrid,850,1 hab 45 m Planta 4 exterior sin ascensor 23 horas,Piso,"Universidad, Madrid",1 hab, 45 m
+11,Piso en Palacio  Madrid,2700,1 hab 110 m exterior sin ascensor,Piso,"Palacio, Madrid",1 hab, 110 m
+12,Piso en Artesa de Segre  Ciudad Universitaria  Madrid,3000,4 hab 242 m Planta 4 exterior con ascensor 23 horas,Piso,"Ciudad Universitaria, Madrid",4 hab, 242 m
+13,Piso en Nuevos MinisteriosRíos Rosas  Madrid,2500,3 hab 118 m exterior con ascensor,Piso,"Ríos Rosas, Madrid",3 hab, 118 m
+14,Ático en calle de Mauricio Legendre  39  Castilla  Madrid,1350,3 hab 100 m Planta 13 exterior con ascensor 23 horas,Ático,"Castilla, Madrid",3 hab, 100 m
+15,Piso en calle de Arturo Soria  Costillares  Madrid,2000,4 hab 158 m exterior con ascensor,Piso,"Costillares, Madrid",4 hab, 158 m
+16,Piso en calle de Cáceres  Chopera  Madrid,1500,2 hab 87 m Planta 8 exterior con ascensor 23 horas,Piso,"Chopera, Madrid",2 hab, 87 m
+17,Piso en LavapiésEmbajadores  Madrid,1700,2 hab 80 m Planta 3 exterior sin ascensor,Piso,"Embajadores, Madrid",2 hab, 80 m
+18,Ático en calle Nenúfar  6  Berruguete  Madrid,1250,1 hab 70 m Planta 3 exterior con ascensor 23 horas,Ático,"Berruguete, Madrid",1 hab, 70 m
+19,Ático en Nuevos MinisteriosRíos Rosas  Madrid,3200,3 hab 140 m exterior con ascensor,Ático,"Ríos Rosas, Madrid",3 hab, 140 m
+20,Piso en calle de San Nicolás  Palacio  Madrid,1650,1 hab 105 m Bajo exterior con ascensor 23 horas,Piso,"Palacio, Madrid",1 hab, 105 m
+21,Piso en Palomas  Madrid,1900,3 hab 144 m Planta 2 exterior con ascensor,Piso,"Palomas, Madrid",3 hab, 144 m
+22,Piso en calle de Fernández de los Ríos  Gaztambide  Madrid,1600,1 hab 58 m Planta 13 interior con ascensor 23 horas,Piso,"Gaztambide, Madrid",1 hab, 58 m
+23,Piso en Ciudad Jardín  Madrid,2800,2 hab 175 m Planta 2 exterior con ascensor,Piso,"Ciudad Jardín, Madrid",2 hab, 175 m
+24,Piso en calle de Amaniel  MalasañaUniversidad  Madrid,1200,2 hab 43 m Planta 3 interior con ascensor 23 horas,Piso,"Universidad, Madrid",2 hab, 43 m
+25,Piso en Palomas  Madrid,2400,3 hab 144 m Planta 2 exterior con ascensor,Piso,"Palomas, Madrid",3 hab, 144 m
+26,Piso en calle Almagro  30  Almagro  Madrid,1350,1 hab 60 m Bajo interior con ascensor 23 horas,Piso,"Almagro, Madrid",1 hab, 60 m
+27,Piso en MalasañaUniversidad  Madrid,3600,3 hab 180 m Planta 4 exterior con ascensor,Piso,"Universidad, Madrid",3 hab, 180 m
+28,Piso en calle Bahía de Palma  14  Campo de las NacionesCorralejos  Madrid,1300,2 hab 110 m Planta 3 exterior con ascensor 23 horas,Piso,"Corralejos, Madrid",2 hab, 110 m
+29,Dúplex en Conde OrgazPiovera  Madrid,2800,2 hab 105 m Planta 4 exterior con ascensor,Dúplex,"Piovera, Madrid",2 hab, 105 m
+0,Piso en Niño Jesús  Madrid,3700,4 hab 214 m Planta 6 exterior con ascensor 23 horas,Piso,"Niño Jesús, Madrid",4 hab, 214 m
+1,Ático en calle Arroyo del Cañaveral  66  El Cañaveral  Madrid,1595,1 hab 64 m Planta 7 exterior con ascensor,Ático,"El Cañaveral, Madrid",1 hab, 64 m
+2,Piso en calle del Porvenir  Fuente del Berro  Madrid,1200,2 hab 67 m Planta 2 exterior sin ascensor,Piso," Fuente del Berro, Madrid",2 hab, 67 m
+3,Piso en calle de Lagasca  99  Castellana  Madrid,14000,4 hab 355 m Planta 6 exterior con ascensor,Piso,"Castellana, Madrid",4 hab, 355 m
+4,Piso en calle del Limón  MalasañaUniversidad  Madrid,1500,3 hab 80 m Planta 4 exterior sin ascensor,Piso,"Universidad, Madrid",3 hab, 80 m
+5,Ático en calle de Núñez de Balboa  Castellana  Madrid,6950,5 hab 268 m Planta 6 exterior con ascensor,Ático,"Castellana, Madrid",5 hab, 268 m
+6,Piso en calle de Alucas  4  Pueblo Nuevo  Madrid,850,2 hab 55 m Planta 3 exterior con ascensor,Piso,"Pueblo Nuevo, Madrid",2 hab, 55 m
+7,Piso en calle de las Viñas del Rio  16  Butarque  Madrid,995,2 hab 83 m Planta 1 exterior con ascensor,Piso,"Butarque, Madrid",2 hab, 83 m
+8,Piso en calle drácena  Nueva España  Madrid,1500,2 hab 80 m Planta 1 exterior con ascensor,Piso,"Nueva España, Madrid",2 hab, 80 m
+9,Piso en calle de las Viñas del Rio  16  Butarque  Madrid,1150,3 hab 93 m Planta 1 exterior con ascensor,Piso,"Butarque, Madrid",3 hab, 93 m
+10,Piso en calle del Conde de Peñalver  83  Lista  Madrid,2200,2 hab 65 m Planta 4 interior con ascensor,Piso,"Lista, Madrid",2 hab, 65 m
+11,Piso en calle de las Viñas del Rio  16  Butarque  Madrid,825,1 hab 50 m Planta 1 exterior con ascensor,Piso,"Butarque, Madrid",1 hab, 50 m
+12,Ático en Trafalgar  Madrid,2100,1 hab 83 m Planta 6 exterior con ascensor,Ático,"Trafalgar, Madrid",1 hab, 83 m
+13,Dúplex en calle de la Buganvilla  4  Castilla  Madrid,3100,4 hab 318 m Planta 4 exterior con ascensor,Dúplex,"Castilla, Madrid",4 hab, 318 m
+14,Ático en calle de Palafox  Trafalgar  Madrid,3900,2 hab 89 m Planta 5 exterior sin ascensor,Ático,"Trafalgar, Madrid",2 hab, 89 m
+15,Piso en calle de los Cabestreros  LavapiésEmbajadores  Madrid,1500,2 hab 50 m Planta 3 interior con ascensor,Piso,"Embajadores, Madrid",2 hab, 50 m
+16,Piso en calle de Don Ramón de la Cruz  Castellana  Madrid,5500,4 hab 230 m Planta 1 exterior con ascensor,Piso,"Castellana, Madrid",4 hab, 230 m
+17,Piso en Fuente del Berro  Madrid,3300,4 hab 165 m exterior con ascensor,Piso," Fuente del Berro, Madrid",4 hab, 165 m
+18,Piso en calle de Diego de León  Lista  Madrid,2700,4 hab 146 m Planta 4 exterior con ascensor,Piso,"Lista, Madrid",4 hab, 146 m
+19,Piso en BernabéuHispanoamérica  Madrid,1900,2 hab 70 m Planta 2 exterior sin ascensor,Piso,"Hispanoamérica, Madrid",2 hab, 70 m
+20,Piso en calle de Benito Gutiérrez  35  Argüelles  Madrid,2200,3 hab 105 m Planta 1 exterior con ascensor,Piso,"Argüelles, Madrid",3 hab, 105 m
+21,Piso en Vallehermoso  Madrid,2000,2 hab 93 m Planta 6 exterior con ascensor,Piso,"Vallehermoso, Madrid",2 hab, 93 m
+22,Piso en Montecarmelo  Madrid,1400,2 hab 103 m Planta 2 exterior con ascensor,Piso,"Montecarmelo, Madrid",2 hab, 103 m
+23,Piso en Sol  Madrid,2500,2 hab 140 m Planta 2 exterior con ascensor,Piso,"Sol, Madrid",2 hab, 140 m
+24,Piso en Ibiza  Madrid,2500,3 hab 120 m Planta 7 interior con ascensor,Piso,"Ibiza, Madrid",3 hab, 120 m
+25,Piso en Palacio  Madrid,2700,1 hab 110 m exterior sin ascensor,Piso,"Palacio, Madrid",1 hab, 110 m
+26,Piso en calle de los Relatores  10  LavapiésEmbajadores  Madrid,2500,2 hab 109 m Bajo exterior con ascensor,Piso,"Embajadores, Madrid",2 hab, 109 m
+27,Piso en calle de la Montera  Sol  Madrid,1600,1 hab 55 m exterior con ascensor,Piso,"Sol, Madrid",1 hab, 55 m
+28,Piso en ChuecaJusticia  Madrid,2000,1 hab 72 m Planta 3 exterior con ascensor,Piso,"Justicia, Madrid",1 hab, 72 m
+29,Piso en calle de Arturo Soria  Costillares  Madrid,2000,4 hab 158 m exterior con ascensor,Piso,"Costillares, Madrid",4 hab, 158 m
+0,Piso en calle del Acuerdo  MalasañaUniversidad  Madrid,850,1 hab 45 m Planta 4 exterior sin ascensor,Piso,"Universidad, Madrid",1 hab, 45 m
+1,Piso en Nuevos MinisteriosRíos Rosas  Madrid,2500,3 hab 118 m exterior con ascensor,Piso,"Ríos Rosas, Madrid",3 hab, 118 m
+2,Piso en Artesa de Segre  Ciudad Universitaria  Madrid,3000,4 hab 242 m Planta 4 exterior con ascensor,Piso,"Ciudad Universitaria, Madrid",4 hab, 242 m
+3,Piso en calle de Arturo Soria  Costillares  Madrid,2000,4 hab 158 m exterior con ascensor,Piso,"Costillares, Madrid",4 hab, 158 m
+4,Ático en calle de Mauricio Legendre  39  Castilla  Madrid,1350,3 hab 100 m Planta 13 exterior con ascensor,Ático,"Castilla, Madrid",3 hab, 100 m
+5,Ático en Nuevos MinisteriosRíos Rosas  Madrid,3200,3 hab 140 m exterior con ascensor,Ático,"Ríos Rosas, Madrid",3 hab, 140 m
+6,Piso en calle de Cáceres  Chopera  Madrid,1500,2 hab 87 m Planta 8 exterior con ascensor,Piso,"Chopera, Madrid",2 hab, 87 m
+7,Piso en Palomas  Madrid,1900,3 hab 144 m Planta 2 exterior con ascensor,Piso,"Palomas, Madrid",3 hab, 144 m
+8,Ático en calle Nenúfar  6  Berruguete  Madrid,1250,1 hab 70 m Planta 3 exterior con ascensor,Ático,"Berruguete, Madrid",1 hab, 70 m
+9,Piso en Palomas  Madrid,2400,3 hab 144 m Planta 2 exterior con ascensor,Piso,"Palomas, Madrid",3 hab, 144 m
+10,Piso en calle de San Nicolás  Palacio  Madrid,1650,1 hab 105 m Bajo exterior con ascensor,Piso,"Palacio, Madrid",1 hab, 105 m
+11,Piso en MalasañaUniversidad  Madrid,3600,3 hab 180 m Planta 4 exterior con ascensor,Piso,"Universidad, Madrid",3 hab, 180 m
+12,Piso en calle de Fernández de los Ríos  Gaztambide  Madrid,1600,1 hab 58 m Planta 13 interior con ascensor,Piso,"Gaztambide, Madrid",1 hab, 58 m
+13,Piso en Ciudad Jardín  Madrid,2800,2 hab 175 m Planta 2 exterior con ascensor,Piso,"Ciudad Jardín, Madrid",2 hab, 175 m
+14,Piso en calle de Amaniel  MalasañaUniversidad  Madrid,1200,2 hab 43 m Planta 3 interior con ascensor,Piso,"Universidad, Madrid",2 hab, 43 m
+15,Ático en Recoletos  Madrid,5000,2 hab 180 m Planta 7 exterior con ascensor,Ático,"Recoletos, Madrid",2 hab, 180 m
+16,Piso en calle Almagro  30  Almagro  Madrid,1350,1 hab 60 m Bajo interior con ascensor Publicado ayer,Piso,"Almagro, Madrid",1 hab, 60 m
+17,Dúplex en Conde OrgazPiovera  Madrid,2800,2 hab 105 m Planta 4 exterior con ascensor,Dúplex,"Piovera, Madrid",2 hab, 105 m
+18,Piso en calle Bahía de Palma  14  Campo de las NacionesCorralejos  Madrid,1300,2 hab 110 m Planta 3 exterior con ascensor,Piso,"Corralejos, Madrid",2 hab, 110 m
+19,Piso en calle de Sánchez Barcáiztegui  9  Pacífico  Madrid,1300,2 hab 54 m Planta 1 interior con ascensor,Piso,"Pacífico, Madrid",2 hab, 54 m
+20,Piso en BernabéuHispanoamérica  Madrid,1500,2 hab 87 m Planta 2 exterior con ascensor,Piso,"Hispanoamérica, Madrid",2 hab, 87 m
+21,Piso en calle Pintor Ignacio de Zuloaga  16  Sanchinarro  Madrid,1650,1 hab 51 m Planta 5 exterior con ascensor,Piso,"Sanchinarro, Madrid",1 hab, 51 m
+22,Piso en calle de Núñez de Balboa  Castellana  Madrid,2800,3 hab 114 m Planta 2 exterior con ascensor,Piso,"Castellana, Madrid",3 hab, 114 m
+23,Piso en calle de Trueba y Fernández  BernabéuHispanoamérica  Madrid,2400,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Hispanoamérica, Madrid",2 hab, 85 m
+24,Piso en plaza Nuestra Señora del Pilar  4  Prosperidad  Madrid,1350,2 hab 67 m Planta 2 exterior sin ascensor,Piso,"Prosperidad, Madrid",2 hab, 67 m
+25,Piso en Entrevías  Madrid,890,2 hab 80 m Planta 1 exterior con ascensor,Piso,"Entrevías, Madrid",2 hab, 80 m
+26,Piso en avenida del Ensanche de Vallecas  Ensanche de Vallecas  La Gavia  Madrid,1350,3 hab 110 m Planta 2 exterior con ascensor,Piso,"Gavia, Madrid",3 hab, 110 m
+27,Piso en calle de Ferrer del Río  Guindalera  Madrid,2000,2 hab 100 m Planta 3 exterior con ascensor,Piso,"Guindalera, Madrid",2 hab, 100 m
+28,Piso en calle Del Padre Claret  Prosperidad  Madrid,1250,2 hab 73 m Planta 1 exterior con ascensor,Piso,"Prosperidad, Madrid",2 hab, 73 m
+29,Piso en Almagro  Madrid,2700,2 hab 117 m exterior con ascensor,Piso,"Almagro, Madrid",2 hab, 117 m
+0,Piso en calle Del Padre Claret  Prosperidad  Madrid,1250,2 hab 73 m Planta 1 exterior con ascensor,Piso,"Prosperidad, Madrid",2 hab, 73 m
+1,Piso en Almagro  Madrid,2700,2 hab 117 m exterior con ascensor,Piso,"Almagro, Madrid",2 hab, 117 m
+2,Piso en calle de Yécora  Rejas  Madrid,1350,3 hab 120 m Planta 2 exterior con ascensor,Piso,"Rejas, Madrid",3 hab, 120 m
+3,Piso en calle de Ayala  71  Goya  Madrid,2300,3 hab 91 m Planta 6 interior con ascensor,Piso,"Goya, Madrid",3 hab, 91 m
+4,Piso en san secundino  Ventas  Madrid,850,2 hab 55 m Planta 2 exterior con ascensor,Piso,"Ventas, Madrid",2 hab, 55 m
+5,Ático en calle de Cristóbal Bordiú  Nuevos MinisteriosRíos Rosas  Madrid,3800,3 hab 141 m Planta 6 exterior con ascensor,Ático,"Ríos Rosas, Madrid",3 hab, 141 m
+6,Piso en tubas  Pau de Carabanchel  Madrid,1120,3 hab 108 m Bajo exterior con ascensor,Piso,"Carabanchel, Madrid",3 hab, 108 m
+7,Chalet pareado en Conde OrgazPiovera  Madrid,4900,5 hab 450 m,Chalet,"Piovera, Madrid",5 hab, 450 m
+8,Chalet adosado en Conde OrgazPiovera  Madrid,5200,5 hab 450 m Publicado ayer,Chalet,"Piovera, Madrid",5 hab, 450 m
+9,Piso en calle Arroyo del Cañaveral  66  El Cañaveral  Madrid,1750,2 hab 90 m Planta 5 exterior con ascensor,Piso,"El Cañaveral, Madrid",2 hab, 90 m
+10,Piso en calle de Vallehermoso  Vallehermoso  Madrid,850,1 hab 30 m Planta 5 interior con ascensor,Piso,"Vallehermoso, Madrid",1 hab, 30 m
+11,Casa o chalet independiente en calle del Sotillo  Conde OrgazPiovera  Madrid,4000,7 hab 242 m,Chalet,"Piovera, Madrid",7 hab, 242 m
+12,Piso en avenida de Brasilia  Guindalera  Madrid,1850,2 hab 100 m Planta 6 exterior con ascensor,Piso,"Guindalera, Madrid",2 hab, 100 m
+13,Piso en calle de Isabel Clara Eugenia  39  Sanchinarro  Madrid,1950,2 hab 85 m Planta 3 exterior con ascensor,Piso,"Sanchinarro, Madrid",2 hab, 85 m
+14,Piso en Arcos  Madrid,995,3 hab 83 m Planta 2 exterior con ascensor,Piso,"Arcos, Madrid",3 hab, 83 m
+15,Casa o chalet independiente en ronda de la Abubilla  1  Conde OrgazPiovera  Madrid,4000,5 hab 242 m,Chalet,"Piovera, Madrid",5 hab, 242 m
+16,Ático en calle Secoya  3  Pau de Carabanchel  Madrid,1400,2 hab 75 m Planta 6 exterior con ascensor,Ático,"Carabanchel, Madrid",2 hab, 75 m
+17,Piso en CuzcoCastillejos  Madrid,3800,4 hab 246 m exterior con ascensor,Piso,"Castillejos, Madrid",4 hab, 246 m
+18,Piso en calle de la Princesa  3  Argüelles  Madrid,1200,1 hab 71 m Planta 3 interior con ascensor,Piso,"Argüelles, Madrid",1 hab, 71 m
+19,Estudio en calle de Calatrava  Palacio  Madrid,1100,40 m Bajo interior con ascensor,Estudio,"Palacio, Madrid",0 estudio,0 estudio
+20,Ático en puerta del Sol  Sol  Madrid,1500,42 m Planta 5 exterior con ascensor Publicado ayer,Ático,"Sol, Madrid",0 estudio,0 estudio
+21,Piso en calle de Calatrava  Palacio  Madrid,1790,2 hab 82 m Planta 2 interior con ascensor,Piso,"Palacio, Madrid",2 hab, 82 m
+22,Piso en calle de Sánchez Barcáiztegui  Pacífico  Madrid,1400,2 hab 68 m Planta 6 interior con ascensor,Piso,"Pacífico, Madrid",2 hab, 68 m
+23,Piso en calle de Velázquez  Castellana  Madrid,4150,3 hab 196 m Planta 2 exterior con ascensor,Piso,"Castellana, Madrid",3 hab, 196 m
+24,Piso en calle de Meléndez Valdés  Gaztambide  Madrid,2000,3 hab 75 m Planta 1 exterior con ascensor 22 horas,Piso,"Gaztambide, Madrid",3 hab, 75 m
+25,Piso en calle Arroyo del Cañaveral  64  El Cañaveral  Madrid,840,1 hab 52 m Planta 4 exterior con ascensor,Piso,"El Cañaveral, Madrid",1 hab, 52 m
+26,Piso en calle de la Paloma  Palacio  Madrid,1000,1 hab 40 m Planta 4 interior con ascensor,Piso,"Palacio, Madrid",1 hab, 40 m
+27,Piso en Palacio  Madrid,4450,2 hab 178 m Planta 3 exterior con ascensor,Piso,"Palacio, Madrid",2 hab, 178 m
+28,Piso en MalasañaUniversidad  Madrid,950,1 hab 30 m Planta 3 exterior sin ascensor,Piso,"Universidad, Madrid",1 hab, 30 m
+29,Piso en ChuecaJusticia  Madrid,2200,1 hab 57 m exterior con ascensor,Piso,"Justicia, Madrid",1 hab, 57 m
+0,Piso en Goya  Madrid,2800,3 hab 132 m Planta 1 exterior con ascensor 1 hora,Piso,"Goya, Madrid",3 hab, 132 m
+1,Piso en calle de García de Paredes  Almagro  Madrid,4800,3 hab 149 m Planta 1 exterior con ascensor,Piso,"Almagro, Madrid",3 hab, 149 m
+2,Ático en calle Lozoya  Arapiles  Madrid,1400,41 m interior con ascensor 2 horas,Ático,"Arapiles, Madrid",0 estudio,0 estudio
+3,Dúplex en calle de San Bernardo  MalasañaUniversidad  Madrid,4100,2 hab 88 m Planta 4 exterior con ascensor 19 horas,Dúplex,"Universidad, Madrid",2 hab, 88 m
+4,Piso en calle de Aristóteles  1  San Pascual  Madrid,1200,3 hab 90 m Planta 5 exterior con ascensor 3 horas,Piso,"San Pascual, Madrid",3 hab, 90 m
+5,Piso en Lista  Madrid,2500,2 hab 95 m Planta 2 exterior con ascensor,Piso,"Lista, Madrid",2 hab, 95 m
+6,Piso en avenida de la Reina Victoria  Vallehermoso  Madrid,1800,3 hab 100 m Planta 6 exterior con ascensor 4 horas,Piso,"Vallehermoso, Madrid",3 hab, 100 m
+7,Piso en Recoletos  Madrid,3800,3 hab 145 m Planta 3 exterior con ascensor,Piso,"Recoletos, Madrid",3 hab, 145 m
+8,Piso en Palacio  Madrid,1750,2 hab 70 m Planta 3 interior con ascensor 5 horas,Piso,"Palacio, Madrid",2 hab, 70 m
+9,Piso en Nuevos MinisteriosRíos Rosas  Madrid,2190,3 hab 80 m Planta 4 exterior con ascensor,Piso,"Ríos Rosas, Madrid",3 hab, 80 m
+10,Piso en Almagro  Madrid,1900,1 hab 89 m Entreplanta exterior con ascensor 6 horas,Piso,"Almagro, Madrid",1 hab, 89 m
+11,Piso en Almagro  Madrid,1900,1 hab 95 m Entreplanta exterior con ascensor,Piso,"Almagro, Madrid",1 hab, 95 m
+12,Piso en Ciudad Universitaria  Madrid,1600,2 hab 60 m Planta 8 exterior con ascensor 6 horas,Piso,"Ciudad Universitaria, Madrid",2 hab, 60 m
+13,Piso en Nuevos MinisteriosRíos Rosas  Madrid,3900,4 hab 215 m Planta 3 exterior con ascensor,Piso,"Ríos Rosas, Madrid",4 hab, 215 m
+14,Piso en plaza de Santa Catalina de los Donados  Sol  Madrid,2300,3 hab 127 m Bajo exterior con ascensor 9 horas,Piso,"Sol, Madrid",3 hab, 127 m
+15,Ático en calle Archiduque Alberto  23  Sanchinarro  Madrid,1120,1 hab 64 m Planta 6 exterior con ascensor 20 horas,Ático,"Sanchinarro, Madrid",1 hab, 64 m
+16,Piso en paseo de la Direccion  161  Valdeacederas  Madrid,2970,2 hab 100 m Planta 14 exterior con ascensor 9 horas,Piso,"Valdeacederas, Madrid",2 hab, 100 m
+17,Piso en Ibiza  Madrid,2700,4 hab 157 m Planta 2 exterior con ascensor,Piso,"Ibiza, Madrid",4 hab, 157 m
+18,Piso en calle de Diego de León  52  Lista  Madrid,3500,5 hab 220 m Planta 3 exterior con ascensor 8 horas,Piso,"Lista, Madrid",5 hab, 220 m
+19,Casa o chalet independiente en calle de Arévalo Lara  Salvador  Madrid,2700,4 hab 200 m 04 sep,Chalet,"El Salvador, Madrid",4 hab, 200 m
+20,Dúplex en calle Ana de Austria  101  Sanchinarro  Madrid,3375,3 hab 120 m Planta 1 exterior con ascensor 9 horas,Dúplex,"Sanchinarro, Madrid",3 hab, 120 m
+21,Piso en calle de Hermosilla  Goya  Madrid,1365,2 hab 56 m Planta 1 interior con ascensor,Piso,"Goya, Madrid",2 hab, 56 m
+22,Piso en Vicente Muzas  Colina  Madrid,1050,1 hab 65 m Planta 4 exterior con ascensor 9 horas,Piso,"Colina, Madrid",1 hab, 65 m
+23,Piso en calle de Cartagena  Guindalera  Madrid,1300,1 hab 79 m Planta 4 exterior con ascensor,Piso,"Guindalera, Madrid",1 hab, 79 m
+24,Piso en calle de Coslada  11  Guindalera  Madrid,1200,2 hab 70 m Planta 2 exterior con ascensor 9 horas,Piso,"Guindalera, Madrid",2 hab, 70 m
+25,Piso en calle de Diego de León  Castellana  Madrid,3300,3 hab 169 m Planta 6 exterior con ascensor,Piso,"Castellana, Madrid",3 hab, 169 m
+26,Piso en calle Villa del Prado  Delicias  Madrid,1280,2 hab 148 m Planta 4 exterior con ascensor 9 horas,Piso,"Delicias, Madrid",2 hab, 148 m
+27,Piso en calle del Pintor Ignacio de Zuloaga  2  Sanchinarro  Madrid,1215,2 hab 76 m Planta 3 con ascensor 04 sep,Piso,"Sanchinarro, Madrid",2 hab, 76 m
+28,Piso en Ibiza  Madrid,2400,3 hab 130 m Planta 3 sin ascensor 10 horas,Piso,"Ibiza, Madrid",3 hab, 130 m
+29,Piso en Argüelles  Madrid,2000,1 hab 62 m Planta 2 exterior con ascensor,Piso,"Argüelles, Madrid",1 hab, 62 m
+0,Piso en calle Alonso Heredia  29  Guindalera  Madrid,1200,3 hab 98 m Planta 2 exterior con ascensor 10 horas,Piso,"Guindalera, Madrid",3 hab, 98 m
+1,Piso en Argüelles  Madrid,2000,1 hab 62 m Planta 2 exterior con ascensor,Piso,"Argüelles, Madrid",1 hab, 62 m
+2,Piso en calle Sagasta  Trafalgar  Madrid,1750,1 hab 95 m Planta 5 exterior con ascensor 11 horas,Piso,"Trafalgar, Madrid",1 hab, 95 m
+3,Piso en calle de Santa Isabel  42  LavapiésEmbajadores  Madrid,1490,2 hab 76 m Planta 3 exterior con ascensor 20 horas,Piso,"Embajadores, Madrid",2 hab, 76 m
+4,Piso en Conde de Aranda  10  Recoletos  Madrid,8370,3 hab 180 m Planta 3 exterior con ascensor 11 horas,Piso,"Recoletos, Madrid",3 hab, 180 m
+5,Piso en calle del Divino Pastor  MalasañaUniversidad  Madrid,1800,2 hab 77 m Planta 1 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 77 m
+6,Piso en plaza de Arteijo  13  Pilar  Madrid,750,1 hab 40 m Planta 3 exterior con ascensor 11 horas,Piso,"Pilar, Madrid",1 hab, 40 m
+7,Piso en calle Donoso Cortés  Gaztambide  Madrid,3000,5 hab 130 m Planta 5 exterior con ascensor,Piso,"Gaztambide, Madrid",5 hab, 130 m
+8,Piso en Serrano  112  Castellana  Madrid,7650,3 hab 241 m Planta 3 exterior con ascensor 11 horas,Piso,"Castellana, Madrid",3 hab, 241 m
+9,Piso en avenida del talgo  Aravaca  Madrid,1200,2 hab 70 m Planta 4 exterior con ascensor,Piso,"Aravaca, Madrid",2 hab, 70 m
+10,Piso en avenida del Doctor Federico Rubio y Galí  Ciudad Universitaria  Madrid,900,2 hab 52 m Planta 2 exterior con ascensor 11 horas,Piso,"Ciudad Universitaria, Madrid",2 hab, 52 m
+11,Piso en Estrella  Madrid,2500,3 hab 165 m exterior con ascensor,Piso,"Estrella, Madrid",3 hab, 165 m
+12,Ático en calle Ferraz  37  Argüelles  Madrid,2000,3 hab 125 m Planta 7 exterior con ascensor 11 horas,Ático,"Argüelles, Madrid",3 hab, 125 m
+13,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1395,3 hab 132 m Bajo exterior con ascensor,Piso,"El Cañaveral, Madrid",3 hab, 132 m
+14,Piso en calle de Antonio de Leyva  76  Opañel  Madrid,930,1 hab 56 m Planta 4 exterior con ascensor 11 horas,Piso,"Opañel, Madrid",1 hab, 56 m
+15,Piso en MalasañaUniversidad  Madrid,3100,3 hab 170 m exterior con ascensor,Piso,"Universidad, Madrid",3 hab, 170 m
+16,Ático en San Carlos  6  LavapiésEmbajadores  Madrid,2430,2 hab 82 m Planta 2 exterior con ascensor 11 horas,Ático,"Embajadores, Madrid",2 hab, 82 m
+17,Piso en Castilla  Madrid,3950,3 hab 171 m Planta 1 exterior con ascensor,Piso,"Castilla, Madrid",3 hab, 171 m
+18,Piso en plaza de Corcubión  1  Pilar  Madrid,950,2 hab 52 m Planta 3 exterior con ascensor 11 horas,Piso,"Pilar, Madrid",2 hab, 52 m
+19,Piso en Argüelles  Madrid,2500,1 hab 73 m Planta 12 exterior con ascensor,Piso,"Argüelles, Madrid",1 hab, 73 m
+20,Dúplex en calle de Vallehermoso  104  Vallehermoso  Madrid,980,1 hab 45 m Planta 6 interior con ascensor 12 horas,Dúplex,"Vallehermoso, Madrid",1 hab, 45 m
+21,Piso en calle de Tribulete  LavapiésEmbajadores  Madrid,1100,2 hab 47 m Planta 2 exterior con ascensor,Piso,"Embajadores, Madrid",2 hab, 47 m
+22,Piso en calle de las Delicias  Palos de Moguer  Madrid,1900,3 hab 81 m Planta 3 exterior sin ascensor 12 horas,Piso,"Palos de Moguer, Madrid",3 hab, 81 m
+23,Piso en plaza de las Cortes  HuertasCortes  Madrid,1500,1 hab 60 m Planta 5 exterior con ascensor,Piso,"Cortes, Madrid",1 hab, 60 m
+24,Piso en calle de María Panés  Nuevos MinisteriosRíos Rosas  Madrid,2190,3 hab 75 m Planta 4 exterior con ascensor 12 horas,Piso,"Ríos Rosas, Madrid",3 hab, 75 m
+25,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1115,2 hab 94 m Planta 1 exterior con ascensor,Piso,"El Cañaveral, Madrid",2 hab, 94 m
+26,Piso en calle Cabo Nicolás Mur  San Isidro  Madrid,895,3 hab 75 m Planta 2 exterior sin ascensor 12 horas,Piso,"San Isidro, Madrid",3 hab, 75 m
+27,Piso en calle del Prado  HuertasCortes  Madrid,1490,2 hab 110 m Planta 1 interior con ascensor,Piso,"Cortes, Madrid",2 hab, 110 m
+28,Piso en calle del Doctor Cortezo  LavapiésEmbajadores  Madrid,2200,4 hab 145 m Planta 4 exterior con ascensor 12 horas,Piso,"Embajadores, Madrid",4 hab, 145 m
+29,Piso en calle de Francisco Silvela  Lista  Madrid,1590,1 hab 54 m Planta 1 exterior con ascensor,Piso,"Lista, Madrid",1 hab, 54 m
+0,Piso en calle de Antonio de Leyva  76  Opañel  Madrid,930,1 hab 56 m Planta 4 exterior con ascensor 12 horas,Piso,"Opañel, Madrid",1 hab, 56 m
+1,Piso en calle de Santa Isabel  42  LavapiésEmbajadores  Madrid,1490,2 hab 76 m Planta 3 exterior con ascensor 20 horas,Piso,"Embajadores, Madrid",2 hab, 76 m
+2,Ático en San Carlos  6  LavapiésEmbajadores  Madrid,2430,2 hab 82 m Planta 2 exterior con ascensor 12 horas,Ático,"Embajadores, Madrid",2 hab, 82 m
+3,Piso en calle del Divino Pastor  MalasañaUniversidad  Madrid,1800,2 hab 77 m Planta 1 exterior con ascensor,Piso,"Universidad, Madrid",2 hab, 77 m
+4,Piso en plaza de Corcubión  1  Pilar  Madrid,950,2 hab 52 m Planta 3 exterior con ascensor 12 horas,Piso,"Pilar, Madrid",2 hab, 52 m
+5,Piso en calle Donoso Cortés  Gaztambide  Madrid,3000,5 hab 130 m Planta 5 exterior con ascensor,Piso,"Gaztambide, Madrid",5 hab, 130 m
+6,Dúplex en calle de Vallehermoso  104  Vallehermoso  Madrid,980,1 hab 45 m Planta 6 interior con ascensor 12 horas,Dúplex,"Vallehermoso, Madrid",1 hab, 45 m
+7,Piso en avenida del talgo  Aravaca  Madrid,1200,2 hab 70 m Planta 4 exterior con ascensor,Piso,"Aravaca, Madrid",2 hab, 70 m
+8,Piso en calle de las Delicias  Palos de Moguer  Madrid,1900,3 hab 81 m Planta 3 exterior sin ascensor 12 horas,Piso,"Palos de Moguer, Madrid",3 hab, 81 m
+9,Piso en Estrella  Madrid,2500,3 hab 165 m exterior con ascensor,Piso,"Estrella, Madrid",3 hab, 165 m
+10,Piso en calle de María Panés  Nuevos MinisteriosRíos Rosas  Madrid,2190,3 hab 75 m Planta 4 exterior con ascensor 12 horas,Piso,"Ríos Rosas, Madrid",3 hab, 75 m
+11,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1395,3 hab 132 m Bajo exterior con ascensor,Piso,"El Cañaveral, Madrid",3 hab, 132 m
+12,Piso en calle Cabo Nicolás Mur  San Isidro  Madrid,895,3 hab 75 m Planta 2 exterior sin ascensor 12 horas,Piso,"San Isidro, Madrid",3 hab, 75 m
+13,Piso en MalasañaUniversidad  Madrid,3100,3 hab 170 m exterior con ascensor,Piso,"Universidad, Madrid",3 hab, 170 m
+14,Piso en calle del Doctor Cortezo  LavapiésEmbajadores  Madrid,2200,4 hab 145 m Planta 4 exterior con ascensor 12 horas,Piso,"Embajadores, Madrid",4 hab, 145 m
+15,Piso en Castilla  Madrid,3950,3 hab 171 m Planta 1 exterior con ascensor,Piso,"Castilla, Madrid",3 hab, 171 m
+16,Piso en calle de la Infanta Mercedes  Cuatro Caminos  Madrid,1495,3 hab 80 m Planta 7 exterior con ascensor 12 horas,Piso,"Cuatro Caminos, Madrid",3 hab, 80 m
+17,Piso en Argüelles  Madrid,2500,1 hab 73 m Planta 12 exterior con ascensor,Piso,"Argüelles, Madrid",1 hab, 73 m
+18,Piso en calle de Fray José Cerdeiriña  Águilas  Madrid,700,2 hab 65 m Planta 5 exterior sin ascensor 12 horas,Piso,"Águilas, Madrid",2 hab, 65 m
+19,Piso en calle de Tribulete  LavapiésEmbajadores  Madrid,1100,2 hab 47 m Planta 2 exterior con ascensor,Piso,"Embajadores, Madrid",2 hab, 47 m
+20,Piso en calle villamanin  Lucero  Madrid,1100,3 hab 90 m Planta 11 exterior con ascensor 12 horas,Piso,"Lucero, Madrid",3 hab, 90 m
+21,Piso en plaza de las Cortes  HuertasCortes  Madrid,1500,1 hab 60 m Planta 5 exterior con ascensor,Piso,"Cortes, Madrid",1 hab, 60 m
+22,Piso en calle del Apóstol Santiago  68  Ventas  Madrid,890,1 hab 58 m Planta 5 exterior con ascensor 12 horas,Piso,"Ventas, Madrid",1 hab, 58 m
+23,Piso en calle Anna Frank  19  El Cañaveral  Madrid,1115,2 hab 94 m Planta 1 exterior con ascensor,Piso,"El Cañaveral, Madrid",2 hab, 94 m
+24,Piso en Poeta Joan Maragall  CuzcoCastillejos  Madrid,2700,2 hab 89 m Planta 18 exterior con ascensor 11 horas,Piso,"Castillejos, Madrid",2 hab, 89 m
+25,Piso en calle del Prado  HuertasCortes  Madrid,1490,2 hab 110 m Planta 1 interior con ascensor,Piso,"Cortes, Madrid",2 hab, 110 m
+26,Piso en Nuñez de Balboa  56  Recoletos  Madrid,2700,1 hab 70 m Planta 2 exterior con ascensor 13 horas,Piso,"Recoletos, Madrid",1 hab, 70 m
+27,Piso en calle de Francisco Silvela  Lista  Madrid,1590,1 hab 54 m Planta 1 exterior con ascensor,Piso,"Lista, Madrid",1 hab, 54 m
+28,Dúplex en Mirasierra  Madrid,2800,3 hab 281 m Planta 3 exterior con ascensor 10 horas,Dúplex,"Mirasierra, Madrid",3 hab, 281 m
+29,Piso en paseo De La Castellana  VentillaAlmenara  Madrid,2900,6 hab 225 m Planta 4 exterior con ascensor,Piso,"Almenara, Madrid",6 hab, 225 m
+0,Piso en Nuñez de Balboa  56  Recoletos  Madrid,2700,1 hab 70 m Planta 2 exterior con ascensor 13 horas,Piso,"Recoletos, Madrid",1 hab, 70 m
+1,Piso en Paseo De La Castellana  201  VentillaAlmenara  Madrid,1900,2 hab 90 m Planta 5 exterior con ascensor,Piso,"Almenara, Madrid",2 hab, 90 m
+2,Dúplex en Mirasierra  Madrid,2800,3 hab 281 m Planta 3 exterior con ascensor 10 horas,Dúplex,"Mirasierra, Madrid",3 hab, 281 m
+3,Piso en paseo Castellana  203  VentillaAlmenara  Madrid,1900,2 hab 90 m Planta 5 exterior con ascensor,Piso,"Almenara, Madrid",2 hab, 90 m
+4,Piso en calle de la Oca  Vista Alegre  Madrid,945,2 hab 56 m Planta 3 exterior con ascensor 13 horas,Piso,"Vista Alegre, Madrid",2 hab, 56 m
+5,Piso en calle del Gasómetro  Acacias  Madrid,1900,3 hab 110 m Bajo exterior sin ascensor 20 horas,Piso,"Acacias, Madrid",3 hab, 110 m
+6,Dúplex en paseo de la Direccion  Berruguete  Madrid,1600,3 hab 145 m Planta 4 exterior con ascensor 13 horas,Dúplex,"Berruguete, Madrid",3 hab, 145 m
+7,Piso en calle de Astorga  Ventas  Madrid,1400,3 hab 75 m Bajo exterior con ascensor,Piso,"Ventas, Madrid",3 hab, 75 m
+8,Piso en calle de WadRas  Bellas Vistas  Madrid,780,2 hab 42 m Bajo interior sin ascensor 13 horas,Piso,"Bellas vistas, Madrid",2 hab, 42 m
+9,Piso en alameda de osuna  50  Alameda de Osuna  Madrid,1700,3 hab 156 m Planta 3 exterior con ascensor,Piso,"Alamenda de Osuna, Madrid",3 hab, 156 m
+10,Piso en calle del Barco  9  MalasañaUniversidad  Madrid,1050,2 hab 65 m Planta 2 interior con ascensor 13 horas,Piso,"Universidad, Madrid",2 hab, 65 m
+11,Piso en calle del Conde de Aranda  Recoletos  Madrid,1900,1 hab 43 m Planta 6 interior con ascensor,Piso,"Recoletos, Madrid",1 hab, 43 m
+12,Piso en Segovia  Palacio  Madrid,970,2 hab 37 m Bajo interior sin ascensor 14 horas,Piso,"Palacio, Madrid",2 hab, 37 m
+13,Piso en El Santo de la Isidra  10  Los Ángeles  Madrid,800,1 hab 66 m Planta 4 exterior con ascensor,Piso,"Ángeles, Madrid",1 hab, 66 m
+14,Piso en calle de Sánchez Barcáiztegui  Pacífico  Madrid,2000,4 hab 106 m Planta 3 exterior con ascensor 26 minutos,Piso,"Pacífico, Madrid",4 hab, 106 m
+15,Piso en Canillas  Madrid,4500,4 hab 323 m Planta 7 exterior con ascensor,Piso,"Canillas, Madrid",4 hab, 323 m
+16,Chalet adosado en Aravaca  Madrid,2900,3 hab 120 m 14 horas,Chalet,"Aravaca, Madrid",3 hab, 120 m
+17,Piso en calle la Granja de San Ildefonso  28  Ensanche de Vallecas  La Gavia  Madrid,1000,2 hab 73 m Planta 2 exterior con ascensor,Piso,"Gavia, Madrid",2 hab, 73 m
+18,Piso en calle de Valencia  LavapiésEmbajadores  Madrid,750,1 hab 33 m Planta 1 interior sin ascensor 14 horas,Piso,"Embajadores, Madrid",1 hab, 33 m
+19,Piso en calle de Maldonado  Lista  Madrid,3450,4 hab 200 m Planta 2 exterior con ascensor,Piso,"Lista, Madrid",4 hab, 200 m
+20,Estudio en calle Embalse de Navacerrada  Ensanche de Vallecas  La Gavia  Madrid,795,33 m Planta 5 exterior con ascensor 14 horas,Estudio,"Gavia, Madrid",0 estudio,0 estudio
+21,Piso en calle la Canción del Olvido  62  Los Ángeles  Madrid,932,2 hab 74 m Planta 1 exterior con ascensor,Piso,"Ángeles, Madrid",2 hab, 74 m
+22,Piso en Vallehermoso  Arapiles  Madrid,1000,1 hab 50 m Planta 4 interior con ascensor 14 horas,Piso,"Arapiles, Madrid",1 hab, 50 m
+23,Piso en calle de Caramuel  Puerta del Ángel  Madrid,1650,2 hab 67 m Planta 1 exterior sin ascensor,Piso,"Puerta del Ángel, Madrid",2 hab, 67 m
+24,Piso en calle Martínez Corrochano  29  Adelfas  Madrid,800,1 hab 40 m Planta 1 exterior con ascensor 14 horas,Piso,"Adelfas, Madrid",1 hab, 40 m
+25,Piso en calle Arte Pop  8  Ensanche de Vallecas  La Gavia  Madrid,820,1 hab 48 m Planta 7 exterior con ascensor,Piso,"Gavia, Madrid",1 hab, 48 m
+26,Piso en plaza de Andrés Manjón  7  Castilla  Madrid,1400,2 hab 75 m Bajo exterior con ascensor 14 horas,Piso,"Castilla, Madrid",2 hab, 75 m
+27,Piso en calle del Lucero del Alba  1  Los Ángeles  Madrid,940,2 hab 74 m Planta 4 exterior con ascensor,Piso,"Ángeles, Madrid",2 hab, 74 m
+28,Piso en calle de Bretón de los Herreros  20  Nuevos MinisteriosRíos Rosas  Madrid,900,2 hab 50 m Planta 1 interior con ascensor 14 horas,Piso,"Ríos Rosas, Madrid",2 hab, 50 m
+29,Piso en calle de Caramuel  Puerta del Ángel  Madrid,1650,2 hab 86 m Planta 1 exterior sin ascensor,Piso,"Puerta del Ángel, Madrid",2 hab, 86 m
+0,Piso en calle del Olivar  44  LavapiésEmbajadores  Madrid,1200,2 hab 56 m Planta 2 exterior sin ascensor 2 horas,Piso,"Embajadores, Madrid",2 hab, 56 m
+1,Piso en calle de Apolonio Morales  Nueva España  Madrid,2200,2 hab 98 m exterior con ascensor,Piso,"Nueva España, Madrid",2 hab, 98 m
+2,Piso en calle de San Vicente Ferrer  MalasañaUniversidad  Madrid,950,1 hab 48 m Bajo exterior sin ascensor 2 horas,Piso,"Universidad, Madrid",1 hab, 48 m
+3,Piso en Prosperidad  Madrid,2400,3 hab 110 m Planta 6 exterior con ascensor,Piso,"Prosperidad, Madrid",3 hab, 110 m
+4,Piso en Nuevos MinisteriosRíos Rosas  Madrid,3900,4 hab 210 m Planta 3 exterior con ascensor 2 horas,Piso,"Ríos Rosas, Madrid",4 hab, 210 m
+5,Piso en Argüelles  Madrid,1600,2 hab 77 m exterior con ascensor,Piso,"Argüelles, Madrid",2 hab, 77 m
+6,Dúplex en calle de Manuel Tovar  Tres Olivos  Valverde  Madrid,950,1 hab 78 m Planta 1 exterior con ascensor 1 hora,Dúplex,"Valverde, Madrid",1 hab, 78 m
+7,Ático en Fuente del Berro  Madrid,2950,3 hab 120 m exterior con ascensor,Ático," Fuente del Berro, Madrid",3 hab, 120 m
+8,Piso en Berruguete  Berruguete  Madrid,915,2 hab 40 m Planta 2 interior sin ascensor 2 horas,Piso,"Berruguete, Madrid",2 hab, 40 m
+9,Piso en Nueva España  Madrid,4000,4 hab 251 m Planta 3 exterior con ascensor,Piso,"Nueva España, Madrid",4 hab, 251 m
+10,Piso en calle de Carranza  4  Trafalgar  Madrid,850,1 hab 30 m Planta 1 interior sin ascensor 2 horas,Piso,"Trafalgar, Madrid",1 hab, 30 m
+11,Ático en BernabéuHispanoamérica  Madrid,2300,3 hab 102 m Planta 7 exterior con ascensor,Ático,"Hispanoamérica, Madrid",3 hab, 102 m
+12,Piso en calle de la Virgen de los Peligros  HuertasCortes  Madrid,1200,1 hab 60 m Planta 1 exterior con ascensor 3 horas,Piso,"Cortes, Madrid",1 hab, 60 m
+13,Piso en Valdemarín  Madrid,2900,4 hab 187 m Bajo exterior con ascensor,Piso,"Valdemarín, Madrid",4 hab, 187 m
+14,Ático en calle de Ángel Muñoz  San Juan Bautista  Madrid,2000,2 hab 96 m Planta 3 exterior con ascensor 3 horas,Ático,"San Juan Bautista, Madrid",2 hab, 96 m
+15,Piso en paseo del General Martínez Campos  Almagro  Madrid,3100,2 hab 178 m Planta 8 exterior con ascensor,Piso,"Almagro, Madrid",2 hab, 178 m
+16,Piso en BernabéuHispanoamérica  Madrid,4800,5 hab 397 m Planta 4 exterior con ascensor 3 horas,Piso,"Hispanoamérica, Madrid",5 hab, 397 m
+17,Piso en Quintana  Madrid,2400,4 hab 171 m Planta 3 exterior con ascensor,Piso,"Quintana, Madrid",4 hab, 171 m
+18,Piso en Goya  Madrid,2450,2 hab 100 m Planta 5 exterior con ascensor 3 horas,Piso,"Goya, Madrid",2 hab, 100 m
+19,Piso en calle de Fernández de la Hoz  Almagro  Madrid,2500,4 hab 172 m Planta 4 con ascensor,Piso,"Almagro, Madrid",4 hab, 172 m
+20,Dúplex en paseo de Juan XXIII  40  Ciudad Universitaria  Madrid,2200,3 hab 130 m Planta 11 exterior con ascensor 3 horas,Dúplex,"Ciudad Universitaria, Madrid",3 hab, 130 m
+21,Piso en calle de Núñez de Balboa  Recoletos  Madrid,7500,4 hab 269 m Planta 5 exterior con ascensor,Piso,"Recoletos, Madrid",4 hab, 269 m
+22,Piso en calle de Castelló  Castellana  Madrid,1700,1 hab 65 m Planta 7 exterior con ascensor 3 horas,Piso,"Castellana, Madrid",1 hab, 65 m
+23,Piso en calle de Atocha  HuertasCortes  Madrid,2600,3 hab 115 m Planta 1 exterior sin ascensor,Piso,"Cortes, Madrid",3 hab, 115 m
+24,Piso en calle del Príncipe de Vergara  109  El Viso  Madrid,1450,2 hab 50 m Planta 5 exterior con ascensor 3 horas,Piso,"El Viso, Madrid",2 hab, 50 m
+25,Piso en pasaje de Bisbal  Fuente del Berro  Madrid,2300,2 hab 100 m Planta 1 exterior con ascensor,Piso," Fuente del Berro, Madrid",2 hab, 100 m
+26,Piso en calle de Juan Duque  10  Imperial  Madrid,825,1 hab 45 m Planta 2 interior con ascensor 3 horas,Piso,"Imperial, Madrid",1 hab, 45 m
+27,Piso en Fuente del Berro  Madrid,2445,2 hab 110 m exterior con ascensor,Piso," Fuente del Berro, Madrid",2 hab, 110 m
+28,Piso en calle de Juan Álvarez Mendizábal  44  Argüelles  Madrid,1250,3 hab 120 m Planta 3 interior sin ascensor 3 horas,Piso,"Argüelles, Madrid",3 hab, 120 m
+29,Piso en calle de ODonnell  Goya  Madrid,9000,4 hab 350 m Planta 5 exterior con ascensor,Piso,"Goya, Madrid",4 hab, 350 m
+0,Piso en Goya  Madrid,2450,2 hab 100 m Planta 5 exterior con ascensor 3 horas,Piso,"Goya, Madrid",2 hab, 100 m
+1,Piso en Nueva España  Madrid,4000,4 hab 251 m Planta 3 exterior con ascensor,Piso,"Nueva España, Madrid",4 hab, 251 m
+2,Dúplex en paseo de Juan XXIII  40  Ciudad Universitaria  Madrid,2200,3 hab 130 m Planta 11 exterior con ascensor 3 horas,Dúplex,"Ciudad Universitaria, Madrid",3 hab, 130 m
+3,Ático en BernabéuHispanoamérica  Madrid,2300,3 hab 102 m Planta 7 exterior con ascensor,Ático,"Hispanoamérica, Madrid",3 hab, 102 m
+4,Piso en calle de Castelló  Castellana  Madrid,1700,1 hab 65 m Planta 7 exterior con ascensor 3 horas,Piso,"Castellana, Madrid",1 hab, 65 m
+5,Piso en Valdemarín  Madrid,2900,4 hab 187 m Bajo exterior con ascensor,Piso,"Valdemarín, Madrid",4 hab, 187 m
+6,Piso en calle del Príncipe de Vergara  109  El Viso  Madrid,1450,2 hab 50 m Planta 5 exterior con ascensor 3 horas,Piso,"El Viso, Madrid",2 hab, 50 m
+7,Piso en Quintana  Madrid,2400,4 hab 171 m Planta 3 exterior con ascensor,Piso,"Quintana, Madrid",4 hab, 171 m
+8,Piso en calle de Juan Duque  10  Imperial  Madrid,825,1 hab 45 m Planta 2 interior con ascensor 3 horas,Piso,"Imperial, Madrid",1 hab, 45 m
+9,Piso en paseo del General Martínez Campos  Almagro  Madrid,3100,2 hab 178 m Planta 8 exterior con ascensor,Piso,"Almagro, Madrid",2 hab, 178 m
+10,Piso en calle de Juan Álvarez Mendizábal  44  Argüelles  Madrid,1250,3 hab 120 m Planta 3 interior sin ascensor 3 horas,Piso,"Argüelles, Madrid",3 hab, 120 m
+11,Piso en calle de Fernández de la Hoz  Almagro  Madrid,2500,4 hab 172 m Planta 4 con ascensor,Piso,"Almagro, Madrid",4 hab, 172 m
+12,Ático en calle del Cactus  1  Berruguete  Madrid,1100,1 hab 62 m Planta 2 interior con ascensor 3 horas,Ático,"Berruguete, Madrid",1 hab, 62 m
+13,Piso en calle de Núñez de Balboa  Recoletos  Madrid,7500,4 hab 269 m Planta 5 exterior con ascensor,Piso,"Recoletos, Madrid",4 hab, 269 m
+14,Piso en calle del Olivar  13  LavapiésEmbajadores  Madrid,750,1 hab 30 m Bajo con ascensor 3 horas,Piso,"Embajadores, Madrid",1 hab, 30 m
+15,Piso en calle de Atocha  HuertasCortes  Madrid,2600,3 hab 115 m Planta 1 exterior sin ascensor,Piso,"Cortes, Madrid",3 hab, 115 m
+16,Piso en calle Arturo Soria  328  Costillares  Madrid,1900,4 hab 160 m Planta 6 exterior con ascensor 3 horas,Piso,"Costillares, Madrid",4 hab, 160 m
+17,Piso en calle de ODonnell  Goya  Madrid,9000,4 hab 350 m Planta 5 exterior con ascensor,Piso,"Goya, Madrid",4 hab, 350 m
+18,Piso en calle de Guipúzcoa  6  Cuatro Caminos  Madrid,850,1 hab 50 m Bajo interior sin ascensor 3 horas,Piso,"Cuatro Caminos, Madrid",1 hab, 50 m
+19,Piso en Fuente del Berro  Madrid,2445,2 hab 110 m exterior con ascensor,Piso," Fuente del Berro, Madrid",2 hab, 110 m
+20,Estudio en calle de Buenavista  20  LavapiésEmbajadores  Madrid,950,60 m Planta 1 exterior sin ascensor 4 horas,Estudio,"Embajadores, Madrid",0 estudio,0 estudio
+21,Piso en calle de la Costa Brava  Mirasierra  Madrid,1600,1 hab 60 m Planta 4 exterior con ascensor,Piso,"Mirasierra, Madrid",1 hab, 60 m
+22,Ático en calle del Príncipe de Vergara  211  El Viso  Madrid,1450,2 hab 67 m Planta 10 exterior con ascensor 4 horas,Ático,"El Viso, Madrid",2 hab, 67 m
+23,Piso en pasaje de Bisbal  Fuente del Berro  Madrid,2300,2 hab 100 m Planta 1 exterior con ascensor,Piso," Fuente del Berro, Madrid",2 hab, 100 m
+24,Piso en Los Cármenes  Madrid,1700,3 hab 72 m Planta 3 exterior con ascensor 1 hora,Piso,"Los Cármenes, Madrid",3 hab, 72 m
+25,Piso en paseo de la Dirección  161  Valdeacederas  Madrid,2500,3 hab 145 m Planta 9 exterior con ascensor,Piso,"Valdeacederas, Madrid",3 hab, 145 m
+26,Piso en calle santa teresa  3  ChuecaJusticia  Madrid,1850,1 hab 63 m Planta 3 exterior con ascensor 4 horas,Piso,"Justicia, Madrid",1 hab, 63 m
+27,Estudio en calle de Sor María de Ágreda  Ventas  Madrid,1000,42 m Bajo exterior sin ascensor 31 ago,Estudio,"Ventas, Madrid",0 estudio,0 estudio
+28,Piso en Goya  Madrid,2800,3 hab 132 m Planta 1 exterior con ascensor 4 horas,Piso,"Goya, Madrid",3 hab, 132 m
+29,Piso en calle de Núñez de Balboa  Recoletos  Madrid,4200,4 hab 220 m Planta 5 exterior con ascensor,Piso,"Recoletos, Madrid",4 hab, 220 m
+0,Piso en calle santa teresa  3  ChuecaJusticia  Madrid,1850,1 hab 63 m Planta 3 exterior con ascensor 4 horas,Piso,"Justicia, Madrid",1 hab, 63 m
+1,Estudio en calle de Sor María de Ágreda  Ventas  Madrid,1000,42 m Bajo exterior sin ascensor 31 ago,Estudio,"Ventas, Madrid",0 estudio,0 estudio
+2,Piso en Goya  Madrid,2800,3 hab 132 m Planta 1 exterior con ascensor 4 horas,Piso,"Goya, Madrid",3 hab, 132 m
+3,Piso en calle de Castelló  Recoletos  Madrid,2650,4 hab 139 m Planta 1 exterior con ascensor,Piso,"Recoletos, Madrid",4 hab, 139 m
+4,Ático en calle Lozoya  Arapiles  Madrid,1400,41 m interior con ascensor 5 horas,Ático,"Arapiles, Madrid",0 estudio,0 estudio
+5,Piso en calle de Lagasca  Castellana  Madrid,2800,3 hab 84 m Bajo interior con ascensor,Piso,"Castellana, Madrid",3 hab, 84 m
+6,Piso en calle de Aristóteles  1  San Pascual  Madrid,1200,3 hab 90 m Planta 5 exterior con ascensor 6 horas,Piso,"San Pascual, Madrid",3 hab, 90 m
+7,Piso en calle de Atocha  HuertasCortes  Madrid,2390,2 hab 75 m Planta 2 exterior con ascensor,Piso,"Cortes, Madrid",2 hab, 75 m
+8,Piso en avenida de la Reina Victoria  Vallehermoso  Madrid,1800,3 hab 100 m Planta 6 exterior con ascensor 7 horas,Piso,"Vallehermoso, Madrid",3 hab, 100 m
+9,Piso en calle de Lagasca  Castellana  Madrid,2700,2 hab 62 m Bajo interior con ascensor,Piso,"Castellana, Madrid",2 hab, 62 m
+10,Piso en Palacio  Madrid,1750,2 hab 70 m Planta 3 interior con ascensor 8 horas,Piso,"Palacio, Madrid",2 hab, 70 m
+11,Piso en calle de Triana  35  Nueva España  Madrid,1825,1 hab 25 m Planta 1 exterior sin ascensor,Piso,"Nueva España, Madrid",1 hab, 25 m
+12,Piso en Almagro  Madrid,1900,1 hab 89 m Entreplanta exterior con ascensor 8 horas,Piso,"Almagro, Madrid",1 hab, 89 m
+13,Estudio en calle de Triana  35  Nueva España  Madrid,1180,20 m Planta 1 exterior sin ascensor,Estudio,"Nueva España, Madrid",0 estudio,0 estudio
+14,Piso en Ciudad Universitaria  Madrid,1600,2 hab 60 m Planta 8 exterior con ascensor 9 horas,Piso,"Ciudad Universitaria, Madrid",2 hab, 60 m
+15,Piso en calle de Triana  35  Nueva España  Madrid,2230,2 hab 45 m Planta 1 exterior sin ascensor,Piso,"Nueva España, Madrid",2 hab, 45 m
+16,Piso en plaza de Santa Catalina de los Donados  Sol  Madrid,2300,3 hab 127 m Bajo exterior con ascensor 11 horas,Piso,"Sol, Madrid",3 hab, 127 m
+17,Estudio en calle de Triana  35  Nueva España  Madrid,1775,20 m Planta 1 exterior sin ascensor,Estudio,"Nueva España, Madrid",0 estudio,0 estudio
+18,Piso en paseo de la Direccion  161  Valdeacederas  Madrid,2970,2 hab 100 m Planta 14 exterior con ascensor 11 horas,Piso,"Valdeacederas, Madrid",2 hab, 100 m
+19,Estudio en calle de Triana  35  Nueva España  Madrid,1240,20 m Planta 1 exterior sin ascensor,Estudio,"Nueva España, Madrid",0 estudio,0 estudio
+20,Piso en calle de Diego de León  52  Lista  Madrid,3500,5 hab 220 m Planta 3 exterior con ascensor 11 horas,Piso,"Lista, Madrid",5 hab, 220 m
+21,Piso en calle de Don Ramón de la Cruz  Recoletos  Madrid,4500,2 hab 164 m Planta 4 exterior con ascensor,Piso,"Recoletos, Madrid",2 hab, 164 m
+22,Dúplex en calle Ana de Austria  101  Sanchinarro  Madrid,3375,3 hab 120 m Planta 1 exterior con ascensor 11 horas,Dúplex,"Sanchinarro, Madrid",3 hab, 120 m
+23,Piso en calle de Diego de León  Castellana  Madrid,3500,4 hab 200 m Planta 3 exterior con ascensor,Piso,"Castellana, Madrid",4 hab, 200 m
+24,Piso en Vicente Muzas  Colina  Madrid,1050,1 hab 65 m Planta 4 exterior con ascensor 12 horas,Piso,"Colina, Madrid",1 hab, 65 m
+25,Piso en Concepción  Madrid,2000,2 hab 90 m Planta 1 exterior con ascensor,Piso,"La Concepción, Madrid",2 hab, 90 m
+26,Piso en calle de Coslada  11  Guindalera  Madrid,1200,2 hab 70 m Planta 2 exterior con ascensor 12 horas,Piso,"Guindalera, Madrid",2 hab, 70 m
+27,Piso en calle San Martín de Porres  Ciudad Universitaria  Madrid,3700,5 hab 342 m Planta 5 exterior con ascensor,Piso,"Ciudad Universitaria, Madrid",5 hab, 342 m
+28,Piso en calle Villa del Prado  Delicias  Madrid,1280,2 hab 148 m Planta 4 exterior con ascensor 12 horas,Piso,"Delicias, Madrid",2 hab, 148 m
+29,Piso en calle de Jesús de Polanco  Peñagrande  Madrid,1800,2 hab 131 m Planta 1 exterior con ascensor,Piso,"Peñagrande, Madrid",2 hab, 131 m
