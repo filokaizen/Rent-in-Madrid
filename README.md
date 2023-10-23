@@ -22,4 +22,4 @@ Para presentar los resultados obtenidos y compartir información sobre el proyec
 
 ¡Explora la página para descubrir los detalles y análisis interesantes sobre el alquiler en Madrid!
 
-Si tienes alguna pregunta o necesitas más detalles sobre el proyecto, no dudes en contactarnos. Estaremos encantados de ayudarte.
+Si tienes alguna pregunta o necesitas más detalles sobre el proyecto, no dudes en contactarnos. Estare encantado de ayudarte.
