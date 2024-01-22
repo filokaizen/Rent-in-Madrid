@@ -16,6 +16,8 @@ Link del proyecto https://innovasteel.us/madridrent/
 
 Para realizar la visualización y análisis de los datos recopilados, se utilizó Power BI. Los datos almacenados en la base de datos MySQL se conectaron a Power BI para generar gráficos interactivos, tablas dinámicas y paneles de control que faciliten el análisis y la comprensión de los patrones y tendencias en la oferta de alquileres en Madrid.
 
+<image src="Images/Informe de viviendas .png" alt="Informe de viviendas Madrid">
+
 ## Landing Page en Wordpress
 
 Para presentar los resultados obtenidos y compartir información sobre el proyecto, se creó una landing page en Wordpress. Esta página incluye una descripción del proyecto, visualizaciones de datos interactivas y conclusiones principales. Además, se brinda información sobre el equipo de proyecto y posibles vías de contacto.
