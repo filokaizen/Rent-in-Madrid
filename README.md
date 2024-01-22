@@ -6,9 +6,9 @@ Link del proyecto https://innovasteel.us/madridrent/
 
 ## Proceso de ETL
 
-1. **Extracción:** Se desarrolló un script de scrapping web que recopila los datos de alquiler en varias páginas web relevantes. Se utilizó Selenium para automatizar la interacción con el navegador y Beautiful Soup para extraer la información de las páginas.
+1. **Extracción:** Se desarrolló un script de web scrapping  que recopila los datos de alquiler en varias páginas web relevantes. Se utilizó Selenium para automatizar la interacción con el navegador y Beautiful Soup para extraer la información de las páginas.
 
-2. **Transformación:** Una vez recopilados los datos en formato CSV, se cargaron en un DataFrame de Pandas para realizar la limpieza y transformación de los mismos. Esto incluyó eliminar registros duplicados, manejar valores faltantes, corregir formatos de datos y realizar la normalización de variables si fuera necesario.
+2. **Transformación:** Una vez recopilados los datos en formato CSV, se cargaron en un DataFrame de Pandas para realizar la limpieza y transformación de los mismos. Esto incluyó eliminar registros duplicados, manejar valores faltantes, corregir formatos de datos y realizar la normalización de variables.
 
 3. **Carga:** Los datos transformados se cargaron en una base de datos MySQL para su almacenamiento persistente y acceso futuro. Se creó una estructura de tablas adecuada para almacenar la información recopilada.
 
